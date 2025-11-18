@@ -1,0 +1,6 @@
+[2025-11-15 15:30:35] Connected to SQL Server
+[2025-11-15 15:30:35] Attendance data fetched successfully
+[2025-11-15 15:30:35] Starting to send emails to 190 employees
+[2025-11-15 15:30:39] Email sent successfully to rinkushah02@gmail.com
+[2025-11-15 15:30:42] Email sent successfully to dharmeshrathod0607@gmail.com
+[2025-11-15 15:30:46] Email sent successfully to sonalidhumal69@gmail.com

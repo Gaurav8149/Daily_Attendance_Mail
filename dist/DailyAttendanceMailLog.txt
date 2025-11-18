@@ -1,0 +1,231 @@
+[2025-11-15 15:33:52] Connected to SQL Server
+[2025-11-15 15:33:53] Attendance data fetched successfully
+[2025-11-15 15:33:53] Starting to send emails to 190 employees
+[2025-11-15 15:33:56] Email sent successfully to rinkushah02@gmail.com
+[2025-11-15 15:33:59] Email sent successfully to dharmeshrathod0607@gmail.com
+[2025-11-15 15:34:02] Email sent successfully to sonalidhumal69@gmail.com
+[2025-11-15 15:47:58] Connected to SQL Server
+[2025-11-15 15:47:58] Attendance data fetched successfully
+[2025-11-15 15:47:58] Sending emails to 190 employees
+[2025-11-15 15:48:02] Email sent successfully to rinkushah02@gmail.com
+[2025-11-15 15:48:05] Email sent successfully to dharmeshrathod0607@gmail.com
+[2025-11-15 15:48:08] Email sent successfully to sonalidhumal69@gmail.com
+[2025-11-15 15:48:11] Email sent successfully to jash_diya@yahoo.com
+[2025-11-15 15:48:15] Email sent successfully to mayurwangne11@gmail.com
+[2025-11-15 15:48:18] Email sent successfully to mahalungepravin@gmail.com
+[2025-11-15 15:48:21] Email sent successfully to nihar.sanghavi@yahoo.co.in
+[2025-11-15 15:48:24] Email sent successfully to hardiksheth941@gmail.com
+[2025-11-15 15:48:28] Email sent successfully to kalghuge24@gmail.com
+[2025-11-15 15:48:31] Email sent successfully to mansitambe716@gmail.com
+[2025-11-15 15:48:34] Email sent successfully to sadanandambekar6@gmail.com
+[2025-11-15 15:48:37] Email sent successfully to ketan.parmar3007@gmail.com
+[2025-11-15 15:48:40] Email sent successfully to akshaymehta2023@gmail.com
+[2025-11-15 15:48:44] Email sent successfully to patabhaidesai555@gmail.com
+[2025-11-15 15:48:47] Email sent successfully to avinashkawli@gmail.com
+[2025-11-15 15:48:50] Email sent successfully to avasthikamlesh10@gmail.com
+[2025-11-15 15:48:54] Email sent successfully to smitamorde1981@gmail.com
+[2025-11-15 15:48:57] Email sent successfully to nateamit05@gmail.com
+[2025-11-15 15:48:57] ❌ FATAL ERROR:
+[2025-11-15 15:48:57] Traceback (most recent call last):
+  File "test.py", line 141, in <module>
+AttributeError: 'NoneType' object has no attribute 'strip'
+
+[2025-11-17 11:01:30] Connected to SQL Server
+[2025-11-17 11:01:30] Attendance data fetched successfully
+[2025-11-17 11:01:30] Sending emails to 1 employees
+[2025-11-17 11:01:33] Email sent successfully to harishsodiye74@gmail.com
+[2025-11-17 11:01:33] Process Completed | Success: 1 | Failed: 0
+[2025-11-17 11:10:06] Connected to SQL Server
+[2025-11-17 11:10:06] Fetching attendance for: 15-11-2025
+[2025-11-17 11:10:07] Attendance data fetched successfully
+[2025-11-17 11:10:07] Sending emails to 181 employees
+[2025-11-17 11:10:10] Email sent to: rinkushah02@gmail.com
+[2025-11-17 11:10:13] Email sent to: dharmeshrathod0607@gmail.com
+[2025-11-17 11:10:16] Email sent to: sonalidhumal69@gmail.com
+[2025-11-17 11:10:19] Email sent to: jash_diya@yahoo.com
+[2025-11-17 11:10:22] Email sent to: mayurwangne11@gmail.com
+[2025-11-17 11:10:25] Email sent to: mahalungepravin@gmail.com
+[2025-11-17 11:10:29] Email sent to: nihar.sanghavi@yahoo.co.in
+[2025-11-17 11:10:32] Email sent to: hardiksheth941@gmail.com
+[2025-11-17 11:10:35] Email sent to: kalghuge24@gmail.com
+[2025-11-17 11:10:38] Email sent to: mansitambe716@gmail.com
+[2025-11-17 11:10:41] Email sent to: sadanandambekar6@gmail.com
+[2025-11-17 11:10:44] Email sent to: ketan.parmar3007@gmail.com
+[2025-11-17 11:10:47] Email sent to: akshaymehta2023@gmail.com
+[2025-11-17 11:10:50] Email sent to: patabhaidesai555@gmail.com
+[2025-11-17 11:10:54] Email sent to: avinashkawli@gmail.com
+[2025-11-17 11:10:57] Email sent to: avasthikamlesh10@gmail.com
+[2025-11-17 11:11:00] Email sent to: smitamorde1981@gmail.com
+[2025-11-17 11:11:03] Email sent to: nateamit05@gmail.com
+[2025-11-17 11:11:03] ⚠ Skipped Sushilkumar N Shah — Email is NULL
+[2025-11-17 11:11:03] ⚠ Skipped Rameshbhai M Purohit — Email is NULL
+[2025-11-17 11:11:03] ⚠ Skipped Ganeshbhai N Purohit — Email is NULL
+[2025-11-17 11:11:03] ⚠ Skipped Ganeshbhai M Rajgor — Email is NULL
+[2025-11-17 11:11:03] ⚠ Skipped Sevantilal R Vohera — Email is NULL
+[2025-11-17 11:11:03] ⚠ Skipped Dashrathsinh R Rathod — Email is NULL
+[2025-11-17 11:11:03] ⚠ Skipped Harsh P Shah — Email is NULL
+[2025-11-17 11:11:03] ⚠ Skipped Janak N Bohara — Email is NULL
+[2025-11-17 11:11:03] ⚠ Skipped Pravinbhai L Va — Email is NULL
+[2025-11-17 11:11:03] ⚠ Skipped Vishal B Shah — Email is NULL
+[2025-11-17 11:11:03] ⚠ Skipped 2018 — Email is NULL
+[2025-11-17 11:11:06] Email sent to: raisushil53@gmail.com
+[2025-11-17 11:11:10] Email sent to: jaybuddhadev777@gmail.com
+[2025-11-17 11:11:13] Email sent to: vanitarikame033@gmail.com
+[2025-11-17 11:11:16] Email sent to: anushkapatole1576@gmail.com
+[2025-11-17 11:11:19] Email sent to: 102022shaurya@gmail.com
+[2025-11-17 11:11:22] Email sent to: kevindani79@yahoo.com
+[2025-11-17 11:11:26] Email sent to: kamalmehta30@yahoo.com
+[2025-11-17 11:11:29] Email sent to: rikameamit22@gmail.com
+[2025-11-17 11:11:32] Email sent to: sudarsansolkar@gmail.com
+[2025-11-17 11:11:35] Email sent to: kardebhawana@gmail.com
+[2025-11-17 11:11:40] Email sent to: upendrachorge@gmail.com
+[2025-11-17 11:11:43] Email sent to: rakhirathod1983@gmail.com
+[2025-11-17 11:11:46] Email sent to: pankajmehta1983@yahoo.com
+[2025-11-17 11:11:49] Email sent to: anuradharya4797@gmail.com
+[2025-11-17 11:11:52] Email sent to: tussc27@gmail.com
+[2025-11-17 11:11:55] Email sent to: aagamsheth2000@gmail.com
+[2025-11-17 11:11:58] Email sent to: kishanbhojak92@gmail.com
+[2025-11-17 11:12:01] Email sent to: gawde.vinayak123@gmail.com
+[2025-11-17 11:12:05] Email sent to: sunilpawar0605@gmail.com
+[2025-11-17 11:12:08] Email sent to: abhaydesai02@gmail.com
+[2025-11-17 11:12:11] Email sent to: atakle920@gmail.com
+[2025-11-17 11:12:14] Email sent to: account301@hotmail.com
+[2025-11-17 11:12:17] Email sent to: sushmaraut1987@gmail.com
+[2025-11-17 11:12:20] Email sent to: bhaveshk1966@rediffmail.com
+[2025-11-17 11:12:24] Email sent to: mankambli80@gmail.com
+[2025-11-17 11:12:28] Email sent to: ruhinshah27@gmail.com
+[2025-11-17 11:12:34] Email sent to: rakeshdusar1@gmail.com
+[2025-11-17 11:12:39] Email sent to: ramojwaranita@gmail.com
+[2025-11-17 11:12:43] Email sent to: gnesha321@gmail.com
+[2025-11-17 11:12:48] Email sent to: sushmachivilkar306@gmail.com
+[2025-11-17 11:12:52] Email sent to: ankesharade12@gmail.com
+[2025-11-17 11:12:55] Email sent to: meetshashikantshah@gmail.com
+[2025-11-17 11:12:58] Email sent to: kaushikshah18.ks@gmail.com
+[2025-11-17 11:13:01] Email sent to: mehta003sagar@gmail.com
+[2025-11-17 11:13:04] Email sent to: vaktusinhrathod4@gmail.com
+[2025-11-17 11:13:07] Email sent to: bhimabhaipurohit@gmail.com
+[2025-11-17 11:13:10] Email sent to: vedakmanisha@gmail.com
+[2025-11-17 11:13:14] Email sent to: surakshab87@gmail.com
+[2025-11-17 11:13:17] Email sent to: ranjanekashinath@gmail.com
+[2025-11-17 11:13:20] Email sent to: voranatwarlal1@gmail.com
+[2025-11-17 11:13:23] Email sent to: rakeshpatane1990@gmail.com
+[2025-11-17 11:13:27] Email sent to: bandrenidhi10@gmail.com
+[2025-11-17 11:13:30] Email sent to: arpitakaralkar@gmail.com
+[2025-11-17 11:13:33] Email sent to: shelarn724@gmail.com
+[2025-11-17 11:13:37] Email sent to: ghanekardipesh44@gmail.com
+[2025-11-17 11:13:42] Email sent to: shahyash509@gmail.com
+[2025-11-17 11:13:45] Email sent to: hareshraygor31@gmail.com
+[2025-11-17 11:13:49] Email sent to: trilokichaudhary68@gmail.com
+[2025-11-17 11:13:52] Email sent to: surajshah0702@gmail.com
+[2025-11-17 11:13:55] Email sent to: gavdeprashant2@gmail.com
+[2025-11-17 11:13:59] Email sent to: sachingharat28@gmail.com
+[2025-11-17 11:14:02] Email sent to: kbabariya9@gmail.com
+[2025-11-17 11:14:05] Email sent to: amolsodaye444@gmail.com
+[2025-11-17 11:14:08] Email sent to: jainammehta365@gmail.com
+[2025-11-17 11:14:11] Email sent to: shaileshmahadik916@gmail.com
+[2025-11-17 11:14:14] Email sent to: vanitashedge1432@gmail.com
+[2025-11-17 11:14:18] Email sent to: nikunjghia789@gmail.com
+[2025-11-17 11:14:21] Email sent to: shreeparshwaelectro@gmail.com
+[2025-11-17 11:14:24] Email sent to: nadkarsuraj1996@gmail.com
+[2025-11-17 11:14:28] Email sent to: rajmehta0504@gmail.com
+[2025-11-17 11:14:32] Email sent to: dakshasolanki1998@gmail.com
+[2025-11-17 11:14:35] Email sent to: prakashrabari9694@gmail.com
+[2025-11-17 11:14:38] Email sent to: mehulmakwana12371@gmail.com
+[2025-11-17 11:14:42] Email sent to: akshatshah9321993942@gmail.com
+[2025-11-17 11:14:46] Email sent to: nilay.shah6442@gmail.com
+[2025-11-17 11:14:49] Email sent to: swatiwaghare13@gmail.com
+[2025-11-17 11:14:52] Email sent to: kailasmita339@gmail.com
+[2025-11-17 11:14:55] Email sent to: sushmitachibde0201@gmail.com
+[2025-11-17 11:14:59] Email sent to: pragathikule9@gmail.com
+[2025-11-17 11:15:02] Email sent to: sushantdhaple909@gmail.com
+[2025-11-17 11:15:06] Email sent to: kavitadarji204@gmail.com
+[2025-11-17 11:15:09] Email sent to: shethshubham.8@gmail.com
+[2025-11-17 11:15:12] Email sent to: vileshshah1963@gmail.com
+[2025-11-17 11:15:15] Email sent to: ritesh7573@gmail.com
+[2025-11-17 11:15:19] Email sent to: swatijp.kolte@gmail.com
+[2025-11-17 11:15:23] Email sent to: shriddhipawar@gmail.com
+[2025-11-17 11:15:26] Email sent to: belvalkarnitin@gmail.com
+[2025-11-17 11:15:29] Email sent to: rahulpotle55@gmail.com
+[2025-11-17 11:15:32] Email sent to: bharakhadap@gmail.com
+[2025-11-17 11:15:35] Email sent to: piyushsolanki1018@gmail.com
+[2025-11-17 11:15:38] Email sent to: ankurshah351981@gmail.com
+[2025-11-17 11:15:42] Email sent to: ninadmahadik732@gmail.com
+[2025-11-17 11:15:46] Email sent to: harishsodiye74@gmail.com
+[2025-11-17 11:15:49] Email sent to: riddhigandhijangid@gmail.com
+[2025-11-17 11:15:53] Email sent to: ssdharmil@gmail.com
+[2025-11-17 11:15:56] Email sent to: bhavya13178@gmail.com
+[2025-11-17 11:15:59] Email sent to: 9krutishah@gmail.com
+[2025-11-17 11:16:02] Email sent to: ashishshah8311@gmail.com
+[2025-11-17 11:16:05] Email sent to: hetalrajawat81@gmail.com
+[2025-11-17 11:16:08] Email sent to: kaushikrathod01@gmail.com
+[2025-11-17 11:16:11] Email sent to: mitshah3005@gmail.com
+[2025-11-17 11:16:15] Email sent to: harshadchalke2@gmail.com
+[2025-11-17 11:16:18] Email sent to: sbadbe77@gmail.com
+[2025-11-17 11:16:21] Email sent to: janvikadam972@gmail.com
+[2025-11-17 11:16:24] Email sent to: rajeshthukre@gmail.com
+[2025-11-17 11:16:27] Email sent to: gauravsavla8@gmail.com
+[2025-11-17 11:16:30] Email sent to: avinash27hodbe@gmail.com
+[2025-11-17 11:16:33] Email sent to: mayankgjain27@gmail.com
+[2025-11-17 11:16:37] Email sent to: pratikbhatt14@gmail.com
+[2025-11-17 11:16:40] Email sent to: pachavane29@gmail.com
+[2025-11-17 11:16:43] Email sent to: rohitdas8586@gmail.com
+[2025-11-17 11:16:46] Email sent to: sadanandbhandari786@gmail.com
+[2025-11-17 11:16:49] Email sent to: pritam.adkhale0612@gmail.com
+[2025-11-17 11:16:53] Email sent to: Og213195@gmail.com
+[2025-11-17 11:16:56] Email sent to: rishabhmujpura09@gmail.com
+[2025-11-17 11:16:59] Email sent to: prashantdesai325@gmail.com
+[2025-11-17 11:17:02] Email sent to: milan.shah55@gmail.com
+[2025-11-17 11:17:06] Email sent to: tejas.jadhav2020@gmail.com
+[2025-11-17 11:17:09] Email sent to: skapadia919@gmail.com
+[2025-11-17 11:17:12] Email sent to: aadishah7391@gmail.com
+[2025-11-17 11:17:15] Email sent to: kisansinhdabhi3@gmail.com
+[2025-11-17 11:17:18] Email sent to: amishah9264@gmail.com
+[2025-11-17 11:17:21] Email sent to: fenilsheth74@gmail.com
+[2025-11-17 11:17:24] Email sent to: diyam1106@gmail.com
+[2025-11-17 11:17:27] Email sent to: pragativarma2000@gmail.com
+[2025-11-17 11:17:30] Email sent to: manavshah1199@gmail.com
+[2025-11-17 11:17:33] Email sent to: nhs050295@gmail.com
+[2025-11-17 11:17:37] Email sent to: Dipalimanval4@gmail.com
+[2025-11-17 11:17:40] Email sent to: shahtarun2005@hotmail.com
+[2025-11-17 11:17:44] Email sent to: shahtarun2005@gmail.com
+[2025-11-17 11:17:48] Email sent to: viralmehta711@gmail.com
+[2025-11-17 11:17:51] Email sent to: jpu1965@gmail.com
+[2025-11-17 11:17:55] Email sent to: rs3405478@gmail.com
+[2025-11-17 11:17:58] Email sent to: sumitwaghmare979@gmail.com
+[2025-11-17 11:18:01] Email sent to: ayaresachin1988@gmail.com
+[2025-11-17 11:18:05] Email sent to: shahpoojan40@gmail.com
+[2025-11-17 11:18:05] ⚠ Skipped Poojan J Shah — Email is NULL
+[2025-11-17 11:18:08] Email sent to: vinitvakharia99999@gmail.com
+[2025-11-17 11:18:11] Email sent to: kadampankaj1317@gmail.com
+[2025-11-17 11:18:15] Email sent to: jvishal977@gmail.com
+[2025-11-17 11:18:18] Email sent to: Vanshshah5555@gmail.com
+[2025-11-17 11:18:22] Email sent to: vanshshah5555@gmail.com
+[2025-11-17 11:18:25] Email sent to: nishitshah0001@gmail.com
+[2025-11-17 11:18:28] Email sent to: sanketshah697@gmail.com
+[2025-11-17 11:18:28] ⚠ Skipped Nilesh R Mewada — Email is NULL
+[2025-11-17 11:18:28] ⚠ Skipped Dev Loladiya — Email is NULL
+[2025-11-17 11:18:28] ⚠ Skipped Sanchita S Malap — Email is NULL
+[2025-11-17 11:18:31] Email sent to: nirpabogati1976@gmail.com
+[2025-11-17 11:18:31] ⚠ Skipped Nishit D Fofani — Email is NULL
+[2025-11-17 11:18:31] ⚠ Skipped Ami M Mehta — Email is NULL
+[2025-11-17 11:18:31] ⚠ Skipped Savina Joyce Aroza — Email is NULL
+[2025-11-17 11:18:34] Email sent to: vilpachaitya04@gmail.com
+[2025-11-17 11:18:38] Email sent to: ketandshah74@yahoo.com
+[2025-11-17 11:18:41] Email sent to: pawardevendra985@gmail.com
+[2025-11-17 11:18:44] Email sent to: hiteshp17381@gmail.com
+[2025-11-17 11:18:47] Email sent to: sandiprajvilkar@yahoo.com
+[2025-11-17 11:18:50] Email sent to: karshanpatel972@gmail.com
+[2025-11-17 11:18:50] ⚠ Skipped Neel Varaiya — Email is NULL
+[2025-11-17 11:18:50] ⚠ Skipped Kalp Mehta — Email is NULL
+[2025-11-17 11:18:50] ⚠ Skipped Tatvkumar N Shah — Email is NULL
+[2025-11-17 11:18:54] Email sent to: mrajpurohit123purohit@gmail.com
+[2025-11-17 11:18:58] Email sent to: arvindpurohit777@gmail.com
+[2025-11-17 11:18:58] Completed | Success: 160 | Failed: 0
+[2025-11-17 11:22:59] Connected to SQL Server
+[2025-11-17 11:22:59] Fetching attendance for: 15-11-2025
+[2025-11-17 11:22:59] Attendance data fetched successfully
+[2025-11-17 11:22:59] Sending emails to 181 employees
+[2025-11-17 11:23:02] Email sent to: rinkushah02@gmail.com
+[2025-11-17 11:23:05] Email sent to: dharmeshrathod0607@gmail.com
+[2025-11-17 11:23:08] Email sent to: sonalidhumal69@gmail.com
+[2025-11-17 16:17:43] ⛔ Yesterday was Sunday — No attendance mail will be sent.
