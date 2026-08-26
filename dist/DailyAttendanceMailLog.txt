@@ -229,3 +229,255 @@ AttributeError: 'NoneType' object has no attribute 'strip'
 [2025-11-17 11:23:05] Email sent to: dharmeshrathod0607@gmail.com
 [2025-11-17 11:23:08] Email sent to: sonalidhumal69@gmail.com
 [2025-11-17 16:17:43] ⛔ Yesterday was Sunday — No attendance mail will be sent.
+[2025-11-29 15:42:03] Connected to SQL Server
+[2025-11-29 15:42:03] Attendance data fetched successfully
+[2025-11-29 15:42:03] Sending emails to 189 employees
+[2025-11-29 15:42:07] Email sent successfully to rinkushah02@gmail.com
+[2025-11-29 15:42:11] Email sent successfully to bamkhadka87@gmail.com
+[2025-11-29 15:42:15] Email sent successfully to dharmeshrathod0607@gmail.com
+[2025-11-29 15:42:18] Email sent successfully to sonalidhumal69@gmail.com
+[2025-11-29 15:42:22] Email sent successfully to jash_diya@yahoo.com
+[2025-11-29 15:42:27] Email sent successfully to mayurwangne11@gmail.com
+[2025-11-29 15:42:31] Email sent successfully to nihar.sanghavi@yahoo.co.in
+[2025-11-29 15:42:35] Email sent successfully to hardiksheth941@gmail.com
+[2025-11-29 15:42:39] Email sent successfully to kalghuge24@gmail.com
+[2025-11-29 15:42:43] Email sent successfully to mansitambe716@gmail.com
+[2025-11-29 15:42:47] Email sent successfully to sadanandambekar6@gmail.com
+[2025-11-29 15:42:52] Email sent successfully to ketan.parmar3007@gmail.com
+[2025-11-29 15:42:56] Email sent successfully to rashesh.doshi@yahoo.com
+[2025-11-29 15:43:00] Email sent successfully to akshaymehta2023@gmail.com
+[2025-11-29 15:43:04] Email sent successfully to patabhaidesai555@gmail.com
+[2025-11-29 15:43:08] Email sent successfully to avinashkawli@gmail.com
+[2025-11-29 15:43:11] Email sent successfully to avasthikamlesh10@gmail.com
+[2025-11-29 15:43:15] Email sent successfully to smitamorde1981@gmail.com
+[2025-11-29 15:43:20] Email sent successfully to nateamit05@gmail.com
+[2025-11-29 15:43:20] ⚠ Skipped Sushilkumar N Shah — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped Rameshbhai M Purohit — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped Ganeshbhai N Purohit — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped Ganeshbhai M Rajgor — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped Sevantilal R Vohera — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped Dashrathsinh R Rathod — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped Harsh P Shah — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped Shasan C Shah — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped Janak N Bohara — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped Pravinbhai L Va — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped 2018 — Missing or invalid email
+[2025-11-29 15:43:20] ⚠ Skipped 2019 — Missing or invalid email
+[2025-11-29 15:43:24] Email sent successfully to raisushil53@gmail.com
+[2025-11-29 15:43:28] Email sent successfully to jaybuddhadev777@gmail.com
+[2025-11-29 15:43:32] Email sent successfully to vanitarikame033@gmail.com
+[2025-11-29 15:43:35] Email sent successfully to anushkapatole1576@gmail.com
+[2025-11-29 15:43:39] Email sent successfully to 102022shaurya@gmail.com
+[2025-11-29 15:43:43] Email sent successfully to kevindani79@yahoo.com
+[2025-11-29 15:43:47] Email sent successfully to kamalmehta30@yahoo.com
+[2025-11-29 15:43:51] Email sent successfully to rikameamit22@gmail.com
+[2025-11-29 15:43:55] Email sent successfully to sudarsansolkar@gmail.com
+[2025-11-29 15:43:59] Email sent successfully to kardebhawana@gmail.com
+[2025-11-29 15:44:03] Email sent successfully to upendrachorge@gmail.com
+[2025-11-29 15:44:07] Email sent successfully to pankajmehta1983@yahoo.com
+[2025-11-29 15:44:09] ❌ Attempt 1 failed for anuradharya4797@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:44:14] ❌ Attempt 2 failed for anuradharya4797@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:44:19] ❌ Attempt 3 failed for anuradharya4797@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:44:25] ❌ Attempt 1 failed for tussc27@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:44:30] ❌ Attempt 2 failed for tussc27@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:44:35] ❌ Attempt 3 failed for tussc27@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:44:40] ❌ Attempt 1 failed for aagamsheth2000@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:44:46] ❌ Attempt 2 failed for aagamsheth2000@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:44:51] ❌ Attempt 3 failed for aagamsheth2000@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:44:56] ❌ Attempt 1 failed for kishanbhojak92@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:01] ❌ Attempt 2 failed for kishanbhojak92@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:07] ❌ Attempt 3 failed for kishanbhojak92@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:12] ❌ Attempt 1 failed for gawde.vinayak123@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:17] ❌ Attempt 2 failed for gawde.vinayak123@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:22] ❌ Attempt 3 failed for gawde.vinayak123@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:27] ❌ Attempt 1 failed for sunilpawar0605@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:33] ❌ Attempt 2 failed for sunilpawar0605@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:38] ❌ Attempt 3 failed for sunilpawar0605@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:43] ❌ Attempt 1 failed for abhaydesai02@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:48] ❌ Attempt 2 failed for abhaydesai02@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:45:55] Email sent successfully to abhaydesai02@gmail.com
+[2025-11-29 15:45:59] Email sent successfully to atakle920@gmail.com
+[2025-11-29 15:46:04] Email sent successfully to account301@hotmail.com
+[2025-11-29 15:46:08] Email sent successfully to sushmaraut1987@gmail.com
+[2025-11-29 15:46:12] Email sent successfully to bhaveshk1966@rediffmail.com
+[2025-11-29 15:46:16] Email sent successfully to mankambli80@gmail.com
+[2025-11-29 15:46:20] Email sent successfully to ruhinshah27@gmail.com
+[2025-11-29 15:46:23] Email sent successfully to rakeshdusar1@gmail.com
+[2025-11-29 15:46:27] Email sent successfully to ramojwaranita@gmail.com
+[2025-11-29 15:46:31] Email sent successfully to gnesha321@gmail.com
+[2025-11-29 15:46:35] Email sent successfully to sushmachivilkar306@gmail.com
+[2025-11-29 15:46:39] Email sent successfully to ankesharade12@gmail.com
+[2025-11-29 15:46:43] Email sent successfully to meetshashikantshah@gmail.com
+[2025-11-29 15:46:48] Email sent successfully to kaushikshah18.ks@gmail.com
+[2025-11-29 15:46:51] Email sent successfully to mehta003sagar@gmail.com
+[2025-11-29 15:46:55] Email sent successfully to bhimabhaipurohit@gmail.com
+[2025-11-29 15:46:59] Email sent successfully to vedakmanisha@gmail.com
+[2025-11-29 15:47:03] Email sent successfully to surakshab87@gmail.com
+[2025-11-29 15:47:07] Email sent successfully to ranjanekashinath@gmail.com
+[2025-11-29 15:47:11] Email sent successfully to voranatwarlal1@gmail.com
+[2025-11-29 15:47:15] Email sent successfully to rakeshpatane1990@gmail.com
+[2025-11-29 15:47:19] Email sent successfully to bandrenidhi10@gmail.com
+[2025-11-29 15:47:21] ❌ Attempt 1 failed for arpitakaralkar@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:47:26] ❌ Attempt 2 failed for arpitakaralkar@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:47:32] ❌ Attempt 3 failed for arpitakaralkar@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:47:37] ❌ Attempt 1 failed for shauryashah000@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:47:42] ❌ Attempt 2 failed for shauryashah000@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:47:47] ❌ Attempt 3 failed for shauryashah000@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:47:52] ❌ Attempt 1 failed for shelarn724@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:47:57] ❌ Attempt 2 failed for shelarn724@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:03] ❌ Attempt 3 failed for shelarn724@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:08] ❌ Attempt 1 failed for ghanekardipesh44@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:13] ❌ Attempt 2 failed for ghanekardipesh44@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:18] ❌ Attempt 3 failed for ghanekardipesh44@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:24] ❌ Attempt 1 failed for shahyash509@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:29] ❌ Attempt 2 failed for shahyash509@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:34] ❌ Attempt 3 failed for shahyash509@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:39] ❌ Attempt 1 failed for hareshraygor31@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:45] ❌ Attempt 2 failed for hareshraygor31@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:50] ❌ Attempt 3 failed for hareshraygor31@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:48:55] ❌ Attempt 1 failed for trilokichaudhary68@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:49:00] ❌ Attempt 2 failed for trilokichaudhary68@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:49:05] ❌ Attempt 3 failed for trilokichaudhary68@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:49:12] Email sent successfully to surajshah0702@gmail.com
+[2025-11-29 15:49:17] Email sent successfully to gavdeprashant2@gmail.com
+[2025-11-29 15:49:20] Email sent successfully to sachingharat28@gmail.com
+[2025-11-29 15:49:24] Email sent successfully to kbabariya9@gmail.com
+[2025-11-29 15:49:28] Email sent successfully to amolsodaye444@gmail.com
+[2025-11-29 15:49:32] Email sent successfully to jainammehta365@gmail.com
+[2025-11-29 15:49:37] Email sent successfully to shaileshmahadik916@gmail.com
+[2025-11-29 15:49:41] Email sent successfully to vanitashedge1432@gmail.com
+[2025-11-29 15:49:44] Email sent successfully to nikunjghia789@gmail.com
+[2025-11-29 15:49:48] Email sent successfully to shreeparshwaelectro@gmail.com
+[2025-11-29 15:49:52] Email sent successfully to nadkarsuraj1996@gmail.com
+[2025-11-29 15:49:56] Email sent successfully to rajmehta0504@gmail.com
+[2025-11-29 15:50:00] Email sent successfully to dakshasolanki1998@gmail.com
+[2025-11-29 15:50:04] Email sent successfully to mehulmakwana12371@gmail.com
+[2025-11-29 15:50:08] Email sent successfully to akshatshah9321993942@gmail.com
+[2025-11-29 15:50:12] Email sent successfully to nilay.shah6442@gmail.com
+[2025-11-29 15:50:16] Email sent successfully to swatiwaghare13@gmail.com
+[2025-11-29 15:50:20] Email sent successfully to aniketbhayaje145@gmail.com
+[2025-11-29 15:50:24] Email sent successfully to kailasmita339@gmail.com
+[2025-11-29 15:50:28] Email sent successfully to jigneshmohite1997@gmail.com
+[2025-11-29 15:50:32] Email sent successfully to sushmitachibde0201@gmail.com
+[2025-11-29 15:50:36] Email sent successfully to pragathikule9@gmail.com
+[2025-11-29 15:50:39] Email sent successfully to sushantdhaple909@gmail.com
+[2025-11-29 15:50:43] Email sent successfully to kavitadarji204@gmail.com
+[2025-11-29 15:50:48] Email sent successfully to shethshubham.8@gmail.com
+[2025-11-29 15:50:52] Email sent successfully to vileshshah1963@gmail.com
+[2025-11-29 15:50:56] Email sent successfully to ritesh7573@gmail.com
+[2025-11-29 15:50:59] Email sent successfully to swatijp.kolte@gmail.com
+[2025-11-29 15:51:02] ❌ Attempt 1 failed for shriddhipawar@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:07] ❌ Attempt 2 failed for shriddhipawar@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:12] ❌ Attempt 3 failed for shriddhipawar@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:17] ❌ Attempt 1 failed for priyabendkar104@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:22] ❌ Attempt 2 failed for priyabendkar104@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:28] ❌ Attempt 3 failed for priyabendkar104@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:33] ❌ Attempt 1 failed for belvalkarnitin@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:38] ❌ Attempt 2 failed for belvalkarnitin@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:43] ❌ Attempt 3 failed for belvalkarnitin@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:48] ❌ Attempt 1 failed for rahulpotle55@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:53] ❌ Attempt 2 failed for rahulpotle55@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:51:58] ❌ Attempt 3 failed for rahulpotle55@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:04] ❌ Attempt 1 failed for bharakhadap@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:09] ❌ Attempt 2 failed for bharakhadap@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:14] ❌ Attempt 3 failed for bharakhadap@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:19] ❌ Attempt 1 failed for piyushsolanki1018@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:24] ❌ Attempt 2 failed for piyushsolanki1018@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:29] ❌ Attempt 3 failed for piyushsolanki1018@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:35] ❌ Attempt 1 failed for ankurshah351981@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:40] ❌ Attempt 2 failed for ankurshah351981@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:45] ❌ Attempt 3 failed for ankurshah351981@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:50] ❌ Attempt 1 failed for ninadmahadik732@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:52:57] Email sent successfully to ninadmahadik732@gmail.com
+[2025-11-29 15:53:01] Email sent successfully to harishsodiye74@gmail.com
+[2025-11-29 15:53:05] Email sent successfully to riddhigandhijangid@gmail.com
+[2025-11-29 15:53:09] Email sent successfully to ssdharmil@gmail.com
+[2025-11-29 15:53:13] Email sent successfully to bhavya13178@gmail.com
+[2025-11-29 15:53:17] Email sent successfully to 9krutishah@gmail.com
+[2025-11-29 15:53:21] Email sent successfully to ashishshah8311@gmail.com
+[2025-11-29 15:53:25] Email sent successfully to hetalrajawat81@gmail.com
+[2025-11-29 15:53:28] Email sent successfully to kaushikrathod01@gmail.com
+[2025-11-29 15:53:33] Email sent successfully to mitshah3005@gmail.com
+[2025-11-29 15:53:37] Email sent successfully to harshadchalke2@gmail.com
+[2025-11-29 15:53:41] Email sent successfully to sbadbe77@gmail.com
+[2025-11-29 15:53:45] Email sent successfully to janvikadam972@gmail.com
+[2025-11-29 15:53:49] Email sent successfully to gauravsavla8@gmail.com
+[2025-11-29 15:53:53] Email sent successfully to avinash27hodbe@gmail.com
+[2025-11-29 15:53:56] Email sent successfully to mayankgjain27@gmail.com
+[2025-11-29 15:54:00] Email sent successfully to pratikbhatt14@gmail.com
+[2025-11-29 15:54:04] Email sent successfully to pachavane29@gmail.com
+[2025-11-29 15:54:08] Email sent successfully to sadanandbhandari786@gmail.com
+[2025-11-29 15:54:13] Email sent successfully to pritam.adkhale0612@gmail.com
+[2025-11-29 15:54:17] Email sent successfully to Og213195@gmail.com
+[2025-11-29 15:54:24] Email sent successfully to rishabhmujpura09@gmail.com
+[2025-11-29 15:54:28] Email sent successfully to prashantdesai325@gmail.com
+[2025-11-29 15:54:30] ❌ Attempt 1 failed for milan.shah55@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:54:35] ❌ Attempt 2 failed for milan.shah55@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:54:40] ❌ Attempt 3 failed for milan.shah55@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:54:45] ❌ Attempt 1 failed for tejas.jadhav2020@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:54:50] ❌ Attempt 2 failed for tejas.jadhav2020@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:54:56] ❌ Attempt 3 failed for tejas.jadhav2020@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:01] ❌ Attempt 1 failed for skapadia919@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:06] ❌ Attempt 2 failed for skapadia919@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:11] ❌ Attempt 3 failed for skapadia919@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:16] ❌ Attempt 1 failed for aadishah7391@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:21] ❌ Attempt 2 failed for aadishah7391@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:27] ❌ Attempt 3 failed for aadishah7391@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:32] ❌ Attempt 1 failed for kisansinhdabhi3@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:37] ❌ Attempt 2 failed for kisansinhdabhi3@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:42] ❌ Attempt 3 failed for kisansinhdabhi3@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:47] ❌ Attempt 1 failed for fenilsheth74@gmail.com: Connection unexpectedly closed
+[2025-11-29 15:55:54] Email sent successfully to fenilsheth74@gmail.com
+[2025-11-29 15:55:58] Email sent successfully to diyam1106@gmail.com
+[2025-11-29 15:56:02] Email sent successfully to pragativarma2000@gmail.com
+[2025-11-29 15:56:06] Email sent successfully to manavshah1199@gmail.com
+[2025-11-29 15:56:10] Email sent successfully to nhs050295@gmail.com
+[2025-11-29 15:56:13] Email sent successfully to Dipalimanval4@gmail.com
+[2025-11-29 15:56:17] Email sent successfully to Riyamaru84@gmail.com
+[2025-11-29 15:56:21] Email sent successfully to shahtarun2005@hotmail.com
+[2025-11-29 15:56:25] Email sent successfully to shahtarun2005@gmail.com
+[2025-11-29 15:56:29] Email sent successfully to shivrampurohit1@gmail.com
+[2025-11-29 15:56:33] Email sent successfully to sonichintesh20@gmail.com
+[2025-11-29 15:56:37] Email sent successfully to cshah1697@gmail.com
+[2025-11-29 15:56:41] Email sent successfully to viralmehta711@gmail.com
+[2025-11-29 15:56:45] Email sent successfully to jpu1965@gmail.com
+[2025-11-29 15:56:49] Email sent successfully to rs3405478@gmail.com
+[2025-11-29 15:56:53] Email sent successfully to sumitwaghmare979@gmail.com
+[2025-11-29 15:56:57] Email sent successfully to ayaresachin1988@gmail.com
+[2025-11-29 15:57:01] Email sent successfully to mehtapreet43@gmail.com
+[2025-11-29 15:57:05] Email sent successfully to shahpoojan40@gmail.com
+[2025-11-29 15:57:09] Email sent successfully to vinitvakharia99999@gmail.com
+[2025-11-29 15:57:13] Email sent successfully to kadampankaj1317@gmail.com
+[2025-11-29 15:57:17] Email sent successfully to jvishal977@gmail.com
+[2025-11-29 15:57:21] Email sent successfully to yashshah85556@gmail.com
+[2025-11-29 15:57:25] Email sent successfully to nishitshah0001@gmail.com
+[2025-11-29 15:57:29] Email sent successfully to sanketshah697@gmail.com
+[2025-11-29 15:57:29] ⚠ Skipped Harsh Amit Shah — Missing or invalid email
+[2025-11-29 15:57:29] ⚠ Skipped Shrut Ashwin bhai parekh — Missing or invalid email
+[2025-11-29 15:57:29] ⚠ Skipped Nilesh R Mewada — Missing or invalid email
+[2025-11-29 15:57:29] ⚠ Skipped Dev Loladiya — Missing or invalid email
+[2025-11-29 15:57:29] ⚠ Skipped Rajesh S Shah — Missing or invalid email
+[2025-11-29 15:57:29] ⚠ Skipped Sanchita S Malap — Missing or invalid email
+[2025-11-29 15:57:33] Email sent successfully to nirpabogati1976@gmail.com
+[2025-11-29 15:57:33] ⚠ Skipped Nishit D Fofani — Missing or invalid email
+[2025-11-29 15:57:33] ⚠ Skipped Nevil R Shah — Missing or invalid email
+[2025-11-29 15:57:33] ⚠ Skipped Ami M Mehta — Missing or invalid email
+[2025-11-29 15:57:33] ⚠ Skipped Savina Joyce Aroza — Missing or invalid email
+[2025-11-29 15:57:37] Email sent successfully to vilpachaitya04@gmail.com
+[2025-11-29 15:57:40] Email sent successfully to ketandshah74@yahoo.com
+[2025-11-29 15:57:44] Email sent successfully to pawardevendra985@gmail.com
+[2025-11-29 15:57:48] Email sent successfully to hiteshp17381@gmail.com
+[2025-11-29 15:57:52] Email sent successfully to sandiprajvilkar@yahoo.com
+[2025-11-29 15:57:56] Email sent successfully to karshanpatel972@gmail.com
+[2025-11-29 15:57:56] ⚠ Skipped Neel Varaiya — Missing or invalid email
+[2025-11-29 15:57:56] ⚠ Skipped Kalp Mehta — Missing or invalid email
+[2025-11-29 15:57:56] ⚠ Skipped Tatvkumar N Shah — Missing or invalid email
+[2025-11-29 15:57:56] ⚠ Skipped Devasi P Devaram — Missing or invalid email
+[2025-11-29 15:58:00] Email sent successfully to mrajpurohit123purohit@gmail.com
+[2025-11-29 15:58:04] Email sent successfully to arvindpurohit777@gmail.com
+[2025-11-29 15:58:04] Process Completed | Success: 138 | Failed: 25
+[2025-11-29 15:58:04] ❌ FATAL ERROR:
+[2025-11-29 15:58:04] Traceback (most recent call last):
+  File "test.py", line 206, in <module>
+RuntimeError: lost sys.stdin
+

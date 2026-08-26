@@ -4,3 +4,886 @@
 [2025-11-15 15:30:39] Email sent successfully to rinkushah02@gmail.com
 [2025-11-15 15:30:42] Email sent successfully to dharmeshrathod0607@gmail.com
 [2025-11-15 15:30:46] Email sent successfully to sonalidhumal69@gmail.com
+[2026-01-15 12:50:49] ✅ Connected to SQL Server
+[2026-01-15 12:50:50] ✅ Attendance data fetched successfully
+[2026-01-15 12:50:50] 📨 Sending emails to 164 employees
+[2026-01-15 12:50:52] ❌ Attempt 1 failed for rinkushah02@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3abb0sm248029685ad.11 - gsmtp')
+[2026-01-15 12:50:57] ❌ Attempt 2 failed for rinkushah02@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c39fefsm246633755ad.17 - gsmtp')
+[2026-01-15 12:51:03] ❌ Attempt 3 failed for rinkushah02@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc8d2932bsm25076942a12.21 - gsmtp')
+[2026-01-15 12:51:06] ❌ Email failed for rinkushah02@gmail.com
+[2026-01-15 12:51:08] ❌ Attempt 1 failed for bamkhadka87@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4e3efcsm1549795b3a.20 - gsmtp')
+[2026-01-15 12:51:14] ❌ Attempt 2 failed for bamkhadka87@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cca06b2edsm24149838a12.32 - gsmtp')
+[2026-01-15 12:51:19] ❌ Attempt 3 failed for bamkhadka87@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc8dd2sm242315255ad.82 - gsmtp')
+[2026-01-15 12:51:22] ❌ Email failed for bamkhadka87@gmail.com
+[2026-01-15 12:51:25] ❌ Attempt 1 failed for dharmeshrathod0607@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af3dcsm1240006a91.9 - gsmtp')
+[2026-01-15 12:51:30] ❌ Attempt 2 failed for dharmeshrathod0607@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678c69fasm1242107a91.14 - gsmtp')
+[2026-01-15 12:51:36] ❌ Attempt 3 failed for dharmeshrathod0607@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc8803sm244247985ad.71 - gsmtp')
+[2026-01-15 12:51:39] ❌ Email failed for dharmeshrathod0607@gmail.com
+[2026-01-15 12:51:41] ❌ Attempt 1 failed for sonalidhumal69@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e65097asm1546157b3a.37 - gsmtp')
+[2026-01-15 12:51:47] ❌ Attempt 2 failed for sonalidhumal69@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4dd11dsm1596429b3a.18 - gsmtp')
+[2026-01-15 12:51:53] ❌ Attempt 3 failed for sonalidhumal69@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c15sm241277435ad.27 - gsmtp')
+[2026-01-15 12:51:56] ❌ Email failed for sonalidhumal69@gmail.com
+[2026-01-15 12:51:59] ❌ Attempt 1 failed for mayurwangne11@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48cc3sm246397245ad.39 - gsmtp')
+[2026-01-15 12:52:04] ❌ Attempt 2 failed for mayurwangne11@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cbf28fa85sm23938181a12.5 - gsmtp')
+[2026-01-15 12:52:10] ❌ Attempt 3 failed for mayurwangne11@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a2a5sm16955865ad.13 - gsmtp')
+[2026-01-15 12:52:13] ❌ Email failed for mayurwangne11@gmail.com
+[2026-01-15 12:52:15] ❌ Attempt 1 failed for mahalungepravin@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b7e8esm1557897b3a.7 - gsmtp')
+[2026-01-15 12:52:22] ❌ Attempt 2 failed for mahalungepravin@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cbf28faf8sm25065856a12.7 - gsmtp')
+[2026-01-15 12:52:28] ❌ Attempt 3 failed for mahalungepravin@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4fb25csm1578156b3a.28 - gsmtp')
+[2026-01-15 12:52:31] ❌ Email failed for mahalungepravin@gmail.com
+[2026-01-15 12:52:35] ❌ Attempt 1 failed for nihar.sanghavi@yahoo.co.in: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6a972dsm1552186b3a.61 - gsmtp')
+[2026-01-15 12:52:41] ❌ Attempt 2 failed for nihar.sanghavi@yahoo.co.in: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c47147sm239457025ad.22 - gsmtp')
+[2026-01-15 12:52:47] ❌ Attempt 3 failed for nihar.sanghavi@yahoo.co.in: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4ea923sm1580410b3a.21 - gsmtp')
+[2026-01-15 12:52:50] ❌ Email failed for nihar.sanghavi@yahoo.co.in
+[2026-01-15 12:52:52] ❌ Attempt 1 failed for kalghuge24@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b2099sm1580051b3a.5 - gsmtp')
+[2026-01-15 12:52:58] ❌ Attempt 2 failed for kalghuge24@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cbfe1ca24sm5170023a12.12 - gsmtp')
+[2026-01-15 12:53:03] ❌ Attempt 3 failed for kalghuge24@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a31dsm243691895ad.9 - gsmtp')
+[2026-01-15 12:53:06] ❌ Email failed for kalghuge24@gmail.com
+[2026-01-15 12:53:09] ❌ Attempt 1 failed for mansitambe716@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3ae21sm239770415ad.7 - gsmtp')
+[2026-01-15 12:53:14] ❌ Attempt 2 failed for mansitambe716@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b4b21sm1565387b3a.12 - gsmtp')
+[2026-01-15 12:53:20] ❌ Attempt 3 failed for mansitambe716@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c57a50da1a7sm13486974a12.36 - gsmtp')
+[2026-01-15 12:53:23] ❌ Email failed for mansitambe716@gmail.com
+[2026-01-15 12:53:25] ❌ Attempt 1 failed for sadanandambekar6@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3ae21sm239777955ad.7 - gsmtp')
+[2026-01-15 12:53:31] ❌ Attempt 2 failed for sadanandambekar6@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b4811sm1568622b3a.9 - gsmtp')
+[2026-01-15 12:53:36] ❌ Attempt 3 failed for sadanandambekar6@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc88fcsm242212885ad.83 - gsmtp')
+[2026-01-15 12:53:39] ❌ Email failed for sadanandambekar6@gmail.com
+[2026-01-15 12:53:42] ❌ Attempt 1 failed for ketan.parmar3007@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc88f1sm240693505ad.78 - gsmtp')
+[2026-01-15 12:53:48] ❌ Attempt 2 failed for ketan.parmar3007@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-3526780b0f3sm1270774a91.12 - gsmtp')
+[2026-01-15 12:53:53] ❌ Attempt 3 failed for ketan.parmar3007@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677bcc02sm1279530a91.3 - gsmtp')
+[2026-01-15 12:53:56] ❌ Email failed for ketan.parmar3007@gmail.com
+[2026-01-15 12:53:59] ❌ Attempt 1 failed for rashesh.doshi@yahoo.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af03csm1250833a91.12 - gsmtp')
+[2026-01-15 12:54:04] ❌ Attempt 2 failed for rashesh.doshi@yahoo.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2e01sm241114085ad.46 - gsmtp')
+[2026-01-15 12:54:09] ❌ Attempt 3 failed for rashesh.doshi@yahoo.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a512sm248056125ad.10 - gsmtp')
+[2026-01-15 12:54:12] ❌ Email failed for rashesh.doshi@yahoo.com
+[2026-01-15 12:54:16] ❌ Attempt 1 failed for avinashkawli@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107c162f4sm1621644a91.7 - gsmtp')
+[2026-01-15 12:54:21] ❌ Attempt 2 failed for avinashkawli@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b8cb0sm1579002b3a.8 - gsmtp')
+[2026-01-15 12:54:27] ❌ Attempt 3 failed for avinashkawli@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-3526782a849sm1239986a91.15 - gsmtp')
+[2026-01-15 12:54:30] ❌ Email failed for avinashkawli@gmail.com
+[2026-01-15 12:54:35] ❌ Attempt 1 failed for avasthikamlesh10@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a51dsm247672475ad.18 - gsmtp')
+[2026-01-15 12:54:41] ❌ Attempt 2 failed for avasthikamlesh10@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc87f8sm242111895ad.77 - gsmtp')
+[2026-01-15 12:54:46] ❌ Attempt 3 failed for avasthikamlesh10@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc88e3sm241652585ad.75 - gsmtp')
+[2026-01-15 12:54:49] ❌ Email failed for avasthikamlesh10@gmail.com
+[2026-01-15 12:54:52] ❌ Attempt 1 failed for smitamorde1981@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-3526780c1ecsm1257187a91.11 - gsmtp')
+[2026-01-15 12:54:58] ❌ Attempt 2 failed for smitamorde1981@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a58c158cc1sm63334065ad.24 - gsmtp')
+[2026-01-15 12:55:03] ❌ Attempt 3 failed for smitamorde1981@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c5cefbsm239223795ad.43 - gsmtp')
+[2026-01-15 12:55:06] ❌ Email failed for smitamorde1981@gmail.com
+[2026-01-15 12:55:09] ❌ Attempt 1 failed for nateamit05@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48be5sm246397905ad.30 - gsmtp')
+[2026-01-15 12:55:14] ❌ Attempt 2 failed for nateamit05@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc78c0sm246703515ad.69 - gsmtp')
+[2026-01-15 12:55:20] ❌ Attempt 3 failed for nateamit05@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4ea923sm1588125b3a.21 - gsmtp')
+[2026-01-15 12:55:23] ❌ Email failed for nateamit05@gmail.com
+[2026-01-15 12:55:25] ❌ Attempt 1 failed for raisushil53@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd4bd8sm241790625ad.102 - gsmtp')
+[2026-01-15 12:55:30] ❌ Attempt 2 failed for raisushil53@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678ef77fsm1222119a91.17 - gsmtp')
+[2026-01-15 12:55:36] ❌ Attempt 3 failed for raisushil53@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc95d5dbfsm24019735a12.27 - gsmtp')
+[2026-01-15 12:55:39] ❌ Email failed for raisushil53@gmail.com
+[2026-01-15 12:55:42] ❌ Attempt 1 failed for jaybuddhadev777@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2d79sm249584235ad.56 - gsmtp')
+[2026-01-15 12:55:47] ❌ Attempt 2 failed for jaybuddhadev777@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6a728asm1570469b3a.62 - gsmtp')
+[2026-01-15 12:55:53] ❌ Attempt 3 failed for jaybuddhadev777@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6a728asm1570766b3a.62 - gsmtp')
+[2026-01-15 12:55:56] ❌ Email failed for jaybuddhadev777@gmail.com
+[2026-01-15 12:55:59] ❌ Attempt 1 failed for vanitarikame033@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc05cd9d9sm25381921a12.16 - gsmtp')
+[2026-01-15 12:56:04] ❌ Attempt 2 failed for vanitarikame033@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd492fsm123171405ad.98 - gsmtp')
+[2026-01-15 12:56:10] ❌ Attempt 3 failed for vanitarikame033@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e64c33dsm1539001b3a.44 - gsmtp')
+[2026-01-15 12:56:13] ❌ Email failed for vanitarikame033@gmail.com
+[2026-01-15 12:56:15] ❌ Attempt 1 failed for anushkapatole1576@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e67933dsm1563196b3a.53 - gsmtp')
+[2026-01-15 12:56:21] ❌ Attempt 2 failed for anushkapatole1576@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e653a83sm1568328b3a.36 - gsmtp')
+[2026-01-15 12:56:27] ❌ Attempt 3 failed for anushkapatole1576@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c50347bc322sm1737933a12.18 - gsmtp')
+[2026-01-15 12:56:30] ❌ Email failed for anushkapatole1576@gmail.com
+[2026-01-15 12:56:33] ❌ Attempt 1 failed for 102022shaurya@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107b8c8d5sm2037799a91.6 - gsmtp')
+[2026-01-15 12:56:38] ❌ Attempt 2 failed for 102022shaurya@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4df4f8sm1582150b3a.16 - gsmtp')
+[2026-01-15 12:56:43] ❌ Attempt 3 failed for 102022shaurya@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b7e8esm1571037b3a.7 - gsmtp')
+[2026-01-15 12:56:46] ❌ Email failed for 102022shaurya@gmail.com
+[2026-01-15 12:56:49] ❌ Attempt 1 failed for kamalmehta30@yahoo.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6a71c6sm1542086b3a.63 - gsmtp')
+[2026-01-15 12:56:54] ❌ Attempt 2 failed for kamalmehta30@yahoo.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc8d81sm242682595ad.81 - gsmtp')
+[2026-01-15 12:57:00] ❌ Attempt 3 failed for kamalmehta30@yahoo.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ec743sm1291347a91.6 - gsmtp')
+[2026-01-15 12:57:03] ❌ Email failed for kamalmehta30@yahoo.com
+[2026-01-15 12:57:05] ❌ Attempt 1 failed for rikameamit22@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677e1581sm1255167a91.5 - gsmtp')
+[2026-01-15 12:57:10] ❌ Attempt 2 failed for rikameamit22@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677e1581sm1255385a91.5 - gsmtp')
+[2026-01-15 12:57:16] ❌ Attempt 3 failed for rikameamit22@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e69d1e7sm1587245b3a.58 - gsmtp')
+[2026-01-15 12:57:19] ❌ Email failed for rikameamit22@gmail.com
+[2026-01-15 12:57:21] ❌ Attempt 1 failed for sudarsansolkar@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6a97f3sm1536639b3a.64 - gsmtp')
+[2026-01-15 12:57:27] ❌ Attempt 2 failed for sudarsansolkar@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48e8esm130752095ad.37 - gsmtp')
+[2026-01-15 12:57:32] ❌ Attempt 3 failed for sudarsansolkar@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd2954sm78945675ad.86 - gsmtp')
+[2026-01-15 12:57:35] ❌ Email failed for sudarsansolkar@gmail.com
+[2026-01-15 12:57:37] ❌ Attempt 1 failed for upendrachorge@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc8d29516sm24127076a12.19 - gsmtp')
+[2026-01-15 12:57:43] ❌ Attempt 2 failed for upendrachorge@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4ea923sm1595202b3a.21 - gsmtp')
+[2026-01-15 12:57:48] ❌ Attempt 3 failed for upendrachorge@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc88fcsm242327805ad.83 - gsmtp')
+[2026-01-15 12:57:51] ❌ Email failed for upendrachorge@gmail.com
+[2026-01-15 12:57:54] ❌ Attempt 1 failed for rakhirathod1983@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a311sm249012715ad.19 - gsmtp')
+[2026-01-15 12:58:00] ❌ Attempt 2 failed for rakhirathod1983@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352675f8e97sm1287038a91.0 - gsmtp')
+[2026-01-15 12:58:05] ❌ Attempt 3 failed for rakhirathod1983@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a2a5sm17120665ad.13 - gsmtp')
+[2026-01-15 12:58:08] ❌ Email failed for rakhirathod1983@gmail.com
+[2026-01-15 12:58:11] ❌ Attempt 1 failed for pankajmehta1983@yahoo.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107b07169sm2037237a91.3 - gsmtp')
+[2026-01-15 12:58:17] ❌ Attempt 2 failed for pankajmehta1983@yahoo.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e381d7csm1629607b3a.0 - gsmtp')
+[2026-01-15 12:58:23] ❌ Attempt 3 failed for pankajmehta1983@yahoo.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b4811sm1582827b3a.9 - gsmtp')
+[2026-01-15 12:58:26] ❌ Email failed for pankajmehta1983@yahoo.com
+[2026-01-15 12:58:28] ❌ Attempt 1 failed for anuradharya4797@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd492fsm123239455ad.98 - gsmtp')
+[2026-01-15 12:58:34] ❌ Attempt 2 failed for anuradharya4797@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc793fsm246198265ad.72 - gsmtp')
+[2026-01-15 12:58:39] ❌ Attempt 3 failed for anuradharya4797@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c5cefbsm239319955ad.43 - gsmtp')
+[2026-01-15 12:58:42] ❌ Email failed for anuradharya4797@gmail.com
+[2026-01-15 12:58:45] ❌ Attempt 1 failed for tussc27@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c57a50da1a7sm13498717a12.36 - gsmtp')
+[2026-01-15 12:58:50] ❌ Attempt 2 failed for tussc27@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c15sm241469595ad.27 - gsmtp')
+[2026-01-15 12:58:56] ❌ Attempt 3 failed for tussc27@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678c69fasm1262423a91.14 - gsmtp')
+[2026-01-15 12:58:59] ❌ Email failed for tussc27@gmail.com
+[2026-01-15 12:59:01] ❌ Attempt 1 failed for gawde.vinayak123@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107c76ed5sm1541198a91.13 - gsmtp')
+[2026-01-15 12:59:06] ❌ Attempt 2 failed for gawde.vinayak123@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc8d292fcsm23954001a12.20 - gsmtp')
+[2026-01-15 12:59:13] ❌ Attempt 3 failed for gawde.vinayak123@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd46a9sm247619325ad.93 - gsmtp')
+[2026-01-15 12:59:16] ❌ Email failed for gawde.vinayak123@gmail.com
+[2026-01-15 12:59:18] ❌ Attempt 1 failed for sunilpawar0605@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c0bsm64650855ad.31 - gsmtp')
+[2026-01-15 12:59:24] ❌ Attempt 2 failed for sunilpawar0605@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c4796asm247764645ad.34 - gsmtp')
+[2026-01-15 12:59:30] ❌ Attempt 3 failed for sunilpawar0605@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e682c6csm1567454b3a.57 - gsmtp')
+[2026-01-15 12:59:33] ❌ Email failed for sunilpawar0605@gmail.com
+[2026-01-15 12:59:35] ❌ Attempt 1 failed for abhaydesai02@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a31dsm243870735ad.9 - gsmtp')
+[2026-01-15 12:59:41] ❌ Attempt 2 failed for abhaydesai02@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6b5901sm1575914b3a.68 - gsmtp')
+[2026-01-15 12:59:46] ❌ Attempt 3 failed for abhaydesai02@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ba8fcsm1258086a91.1 - gsmtp')
+[2026-01-15 12:59:49] ❌ Email failed for abhaydesai02@gmail.com
+[2026-01-15 12:59:51] ❌ Attempt 1 failed for atakle920@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cbfc2f477sm1535616a12.8 - gsmtp')
+[2026-01-15 12:59:57] ❌ Attempt 2 failed for atakle920@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af047sm1256903a91.10 - gsmtp')
+[2026-01-15 13:00:02] ❌ Attempt 3 failed for atakle920@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc78c0sm246836835ad.69 - gsmtp')
+[2026-01-15 13:00:05] ❌ Email failed for atakle920@gmail.com
+[2026-01-15 13:00:08] ❌ Attempt 1 failed for account301@hotmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e67933dsm1574720b3a.53 - gsmtp')
+[2026-01-15 13:00:13] ❌ Attempt 2 failed for account301@hotmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c2bsm241320395ad.26 - gsmtp')
+[2026-01-15 13:00:18] ❌ Attempt 3 failed for account301@hotmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6aa7f6sm1581283b3a.66 - gsmtp')
+[2026-01-15 13:00:21] ❌ Email failed for account301@hotmail.com
+[2026-01-15 13:00:23] ❌ Attempt 1 failed for sushmaraut1987@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2c04sm249764475ad.53 - gsmtp')
+[2026-01-15 13:00:30] ❌ Attempt 2 failed for sushmaraut1987@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e653615sm1572077b3a.32 - gsmtp')
+[2026-01-15 13:00:36] ❌ Attempt 3 failed for sushmaraut1987@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ba62csm1271669a91.2 - gsmtp')
+[2026-01-15 13:00:39] ❌ Email failed for sushmaraut1987@gmail.com
+[2026-01-15 13:00:41] ❌ Attempt 1 failed for bhaveshk1966@rediffmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2b72sm245682375ad.51 - gsmtp')
+[2026-01-15 13:00:47] ❌ Attempt 2 failed for bhaveshk1966@rediffmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2f8asm247342175ad.57 - gsmtp')
+[2026-01-15 13:00:52] ❌ Attempt 3 failed for bhaveshk1966@rediffmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6797dfsm1583607b3a.52 - gsmtp')
+[2026-01-15 13:00:55] ❌ Email failed for bhaveshk1966@rediffmail.com
+[2026-01-15 13:00:57] ❌ Attempt 1 failed for mankambli80@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e67933dsm1577222b3a.53 - gsmtp')
+[2026-01-15 13:01:03] ❌ Attempt 2 failed for mankambli80@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cbfe1ca24sm5187916a12.12 - gsmtp')
+[2026-01-15 13:01:08] ❌ Attempt 3 failed for mankambli80@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-3526782a928sm1250319a91.16 - gsmtp')
+[2026-01-15 13:01:11] ❌ Email failed for mankambli80@gmail.com
+[2026-01-15 13:01:14] ❌ Attempt 1 failed for ruhinshah27@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3ba03f9sm242678155ad.0 - gsmtp')
+[2026-01-15 13:01:19] ❌ Attempt 2 failed for ruhinshah27@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af047sm1260796a91.10 - gsmtp')
+[2026-01-15 13:01:24] ❌ Attempt 3 failed for ruhinshah27@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352676058d2sm1301355a91.0 - gsmtp')
+[2026-01-15 13:01:27] ❌ Email failed for ruhinshah27@gmail.com
+[2026-01-15 13:01:30] ❌ Attempt 1 failed for rakeshdusar1@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107c162f4sm1629741a91.7 - gsmtp')
+[2026-01-15 13:01:35] ❌ Attempt 2 failed for rakeshdusar1@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc8d292fcsm23959623a12.20 - gsmtp')
+[2026-01-15 13:01:41] ❌ Attempt 3 failed for rakeshdusar1@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107c16331sm1614076a91.8 - gsmtp')
+[2026-01-15 13:01:44] ❌ Email failed for rakeshdusar1@gmail.com
+[2026-01-15 13:01:46] ❌ Attempt 1 failed for ramojwaranita@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc88d9sm10398055ad.80 - gsmtp')
+[2026-01-15 13:01:52] ❌ Attempt 2 failed for ramojwaranita@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc95d5f10sm23955661a12.26 - gsmtp')
+[2026-01-15 13:01:57] ❌ Attempt 3 failed for ramojwaranita@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af3dcsm1268751a91.9 - gsmtp')
+[2026-01-15 13:02:00] ❌ Email failed for ramojwaranita@gmail.com
+[2026-01-15 13:02:03] ❌ Attempt 1 failed for gnesha321@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af3dcsm1268983a91.9 - gsmtp')
+[2026-01-15 13:02:08] ❌ Attempt 2 failed for gnesha321@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48931sm240919975ad.29 - gsmtp')
+[2026-01-15 13:02:13] ❌ Attempt 3 failed for gnesha321@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4c2293sm1635311b3a.13 - gsmtp')
+[2026-01-15 13:02:16] ❌ Email failed for gnesha321@gmail.com
+[2026-01-15 13:02:18] ❌ Attempt 1 failed for sushmachivilkar306@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c47147sm239715015ad.22 - gsmtp')
+[2026-01-15 13:02:24] ❌ Attempt 2 failed for sushmachivilkar306@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ba8fcsm1265355a91.1 - gsmtp')
+[2026-01-15 13:02:29] ❌ Attempt 3 failed for sushmachivilkar306@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4ea923sm1609502b3a.21 - gsmtp')
+[2026-01-15 13:02:32] ❌ Email failed for sushmachivilkar306@gmail.com
+[2026-01-15 13:02:34] ❌ Attempt 1 failed for ankesharade12@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c50347bc322sm1752248a12.18 - gsmtp')
+[2026-01-15 13:02:40] ❌ Attempt 2 failed for ankesharade12@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6b5901sm1585024b3a.68 - gsmtp')
+[2026-01-15 13:02:45] ❌ Attempt 3 failed for ankesharade12@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc8d292fcsm23962470a12.20 - gsmtp')
+[2026-01-15 13:02:48] ❌ Email failed for ankesharade12@gmail.com
+[2026-01-15 13:02:51] ❌ Attempt 1 failed for meetshashikantshah@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e64bdafsm1622197b3a.41 - gsmtp')
+[2026-01-15 13:02:56] ❌ Attempt 2 failed for meetshashikantshah@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cca06b2edsm24176198a12.32 - gsmtp')
+[2026-01-15 13:03:02] ❌ Attempt 3 failed for meetshashikantshah@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b6ca9sm1580067b3a.4 - gsmtp')
+[2026-01-15 13:03:05] ❌ Email failed for meetshashikantshah@gmail.com
+[2026-01-15 13:03:07] ❌ Attempt 1 failed for kaushikshah18.ks@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e653a83sm1588674b3a.36 - gsmtp')
+[2026-01-15 13:03:12] ❌ Attempt 2 failed for kaushikshah18.ks@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6a71c6sm1561108b3a.63 - gsmtp')
+[2026-01-15 13:03:17] ❌ Attempt 3 failed for kaushikshah18.ks@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af3dcsm1272269a91.9 - gsmtp')
+[2026-01-15 13:03:20] ❌ Email failed for kaushikshah18.ks@gmail.com
+[2026-01-15 13:03:23] ❌ Attempt 1 failed for vedakmanisha@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107b07169sm2043610a91.3 - gsmtp')
+[2026-01-15 13:03:28] ❌ Attempt 2 failed for vedakmanisha@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd4a41sm128075495ad.100 - gsmtp')
+[2026-01-15 13:03:34] ❌ Attempt 3 failed for vedakmanisha@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677e1581sm1272665a91.5 - gsmtp')
+[2026-01-15 13:03:37] ❌ Email failed for vedakmanisha@gmail.com
+[2026-01-15 13:03:39] ❌ Attempt 1 failed for surakshab87@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4f5276sm1614023b3a.24 - gsmtp')
+[2026-01-15 13:03:44] ❌ Attempt 2 failed for surakshab87@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b7e8esm1591850b3a.7 - gsmtp')
+[2026-01-15 13:03:50] ❌ Attempt 3 failed for surakshab87@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-3510691b655sm1706270a91.2 - gsmtp')
+[2026-01-15 13:03:53] ❌ Email failed for surakshab87@gmail.com
+[2026-01-15 13:04:00] ❌ Attempt 1 failed for ranjanekashinath@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677c9315sm1320364a91.2 - gsmtp')
+[2026-01-15 13:04:05] ❌ Attempt 2 failed for ranjanekashinath@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cca06b77bsm24407927a12.33 - gsmtp')
+[2026-01-15 13:04:10] ❌ Attempt 3 failed for ranjanekashinath@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b2099sm1613821b3a.5 - gsmtp')
+[2026-01-15 13:04:13] ❌ Email failed for ranjanekashinath@gmail.com
+[2026-01-15 13:04:16] ❌ Attempt 1 failed for voranatwarlal1@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c491e7sm247438495ad.38 - gsmtp')
+[2026-01-15 13:04:21] ❌ Attempt 2 failed for voranatwarlal1@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-3526780c1ecsm1283324a91.11 - gsmtp')
+[2026-01-15 13:04:27] ❌ Attempt 3 failed for voranatwarlal1@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e64c6b3sm1576867b3a.40 - gsmtp')
+[2026-01-15 13:04:30] ❌ Email failed for voranatwarlal1@gmail.com
+[2026-01-15 13:04:32] ❌ Attempt 1 failed for rakeshpatane1990@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cbf28faa9sm24023434a12.2 - gsmtp')
+[2026-01-15 13:04:38] ❌ Attempt 2 failed for rakeshpatane1990@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352676058d2sm1310137a91.0 - gsmtp')
+[2026-01-15 13:04:43] ❌ Attempt 3 failed for rakeshpatane1990@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc8d29516sm24143074a12.19 - gsmtp')
+[2026-01-15 13:04:46] ❌ Email failed for rakeshpatane1990@gmail.com
+[2026-01-15 13:04:49] ❌ Attempt 1 failed for bandrenidhi10@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6ab4a9sm1580201b3a.65 - gsmtp')
+[2026-01-15 13:04:55] ❌ Attempt 2 failed for bandrenidhi10@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c59b024cfb4sm11970194a12.14 - gsmtp')
+[2026-01-15 13:05:00] ❌ Attempt 3 failed for bandrenidhi10@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c49037sm246345755ad.36 - gsmtp')
+[2026-01-15 13:05:03] ❌ Email failed for bandrenidhi10@gmail.com
+[2026-01-15 13:05:06] ❌ Attempt 1 failed for arpitakaralkar@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af465sm1250636a91.11 - gsmtp')
+[2026-01-15 13:05:12] ❌ Attempt 2 failed for arpitakaralkar@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cca06b16fsm25272045a12.31 - gsmtp')
+[2026-01-15 13:05:17] ❌ Attempt 3 failed for arpitakaralkar@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c49037sm246353945ad.36 - gsmtp')
+[2026-01-15 13:05:20] ❌ Email failed for arpitakaralkar@gmail.com
+[2026-01-15 13:05:22] ❌ Attempt 1 failed for shauryashah000@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c15sm241641195ad.27 - gsmtp')
+[2026-01-15 13:05:28] ❌ Attempt 2 failed for shauryashah000@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-3526782a714sm1302806a91.14 - gsmtp')
+[2026-01-15 13:05:33] ❌ Attempt 3 failed for shauryashah000@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-3526780b0f3sm1303396a91.12 - gsmtp')
+[2026-01-15 13:05:36] ❌ Email failed for shauryashah000@gmail.com
+[2026-01-15 13:05:39] ❌ Attempt 1 failed for surajshah0702@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e676f56sm1580719b3a.46 - gsmtp')
+[2026-01-15 13:05:44] ❌ Attempt 2 failed for surajshah0702@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4ec6easm1602816b3a.22 - gsmtp')
+[2026-01-15 13:05:50] ❌ Attempt 3 failed for surajshah0702@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2df6sm247216985ad.61 - gsmtp')
+[2026-01-15 13:05:53] ❌ Email failed for surajshah0702@gmail.com
+[2026-01-15 13:05:56] ❌ Attempt 1 failed for gavdeprashant2@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ec7a8sm1241195a91.7 - gsmtp')
+[2026-01-15 13:06:01] ❌ Attempt 2 failed for gavdeprashant2@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e679ecesm1599559b3a.55 - gsmtp')
+[2026-01-15 13:06:07] ❌ Attempt 3 failed for gavdeprashant2@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c59b024cfb4sm11973058a12.14 - gsmtp')
+[2026-01-15 13:06:10] ❌ Email failed for gavdeprashant2@gmail.com
+[2026-01-15 13:06:12] ❌ Attempt 1 failed for sachingharat28@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e64bfc0sm1591626b3a.39 - gsmtp')
+[2026-01-15 13:06:18] ❌ Attempt 2 failed for sachingharat28@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e64c8dfsm1594604b3a.34 - gsmtp')
+[2026-01-15 13:06:23] ❌ Attempt 3 failed for sachingharat28@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ba8fcsm1276078a91.1 - gsmtp')
+[2026-01-15 13:06:26] ❌ Email failed for sachingharat28@gmail.com
+[2026-01-15 13:06:29] ❌ Attempt 1 failed for kbabariya9@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ec7dasm1300107a91.8 - gsmtp')
+[2026-01-15 13:06:34] ❌ Attempt 2 failed for kbabariya9@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cca06b16fsm25275375a12.31 - gsmtp')
+[2026-01-15 13:06:40] ❌ Attempt 3 failed for kbabariya9@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b4110sm1624159b3a.10 - gsmtp')
+[2026-01-15 13:06:43] ❌ Email failed for kbabariya9@gmail.com
+[2026-01-15 13:06:45] ❌ Attempt 1 failed for amolsodaye444@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677e1a3bsm1300739a91.7 - gsmtp')
+[2026-01-15 13:06:51] ❌ Attempt 2 failed for amolsodaye444@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107c479aesm1649813a91.10 - gsmtp')
+[2026-01-15 13:06:56] ❌ Attempt 3 failed for amolsodaye444@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c75sm248814325ad.35 - gsmtp')
+[2026-01-15 13:06:59] ❌ Email failed for amolsodaye444@gmail.com
+[2026-01-15 13:07:02] ❌ Attempt 1 failed for jainammehta365@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e381d7csm1656056b3a.0 - gsmtp')
+[2026-01-15 13:07:07] ❌ Attempt 2 failed for jainammehta365@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e64bdafsm1635380b3a.41 - gsmtp')
+[2026-01-15 13:07:13] ❌ Attempt 3 failed for jainammehta365@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2f8asm247515575ad.57 - gsmtp')
+[2026-01-15 13:07:16] ❌ Email failed for jainammehta365@gmail.com
+[2026-01-15 13:07:18] ❌ Attempt 1 failed for shaileshmahadik916@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6b5901sm1599152b3a.68 - gsmtp')
+[2026-01-15 13:07:23] ❌ Attempt 2 failed for shaileshmahadik916@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd4654sm247203325ad.97 - gsmtp')
+[2026-01-15 13:07:29] ❌ Attempt 3 failed for shaileshmahadik916@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc8d76sm243709505ad.84 - gsmtp')
+[2026-01-15 13:07:32] ❌ Email failed for shaileshmahadik916@gmail.com
+[2026-01-15 13:07:35] ❌ Attempt 1 failed for vanitashedge1432@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4df4f8sm1615220b3a.16 - gsmtp')
+[2026-01-15 13:07:40] ❌ Attempt 2 failed for vanitashedge1432@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4e3efcsm1599126b3a.20 - gsmtp')
+[2026-01-15 13:07:46] ❌ Attempt 3 failed for vanitashedge1432@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b2099sm1624511b3a.5 - gsmtp')
+[2026-01-15 13:07:49] ❌ Email failed for vanitashedge1432@gmail.com
+[2026-01-15 13:07:51] ❌ Attempt 1 failed for nikunjghia789@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ba665sm1258626a91.4 - gsmtp')
+[2026-01-15 13:07:57] ❌ Attempt 2 failed for nikunjghia789@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48cc3sm246835605ad.39 - gsmtp')
+[2026-01-15 13:08:02] ❌ Attempt 3 failed for nikunjghia789@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc8dd2sm242762755ad.82 - gsmtp')
+[2026-01-15 13:08:05] ❌ Email failed for nikunjghia789@gmail.com
+[2026-01-15 13:08:07] ❌ Attempt 1 failed for shreeparshwaelectro@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc8d29516sm24150704a12.19 - gsmtp')
+[2026-01-15 13:08:13] ❌ Attempt 2 failed for shreeparshwaelectro@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107890f85sm2254643a91.1 - gsmtp')
+[2026-01-15 13:08:19] ❌ Attempt 3 failed for shreeparshwaelectro@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a596365ce0sm41793975ad.41 - gsmtp')
+[2026-01-15 13:08:22] ❌ Email failed for shreeparshwaelectro@gmail.com
+[2026-01-15 13:08:24] ❌ Attempt 1 failed for nadkarsuraj1996@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4fa70dsm1626581b3a.29 - gsmtp')
+[2026-01-15 13:08:30] ❌ Attempt 2 failed for nadkarsuraj1996@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e65097asm1596806b3a.37 - gsmtp')
+[2026-01-15 13:08:35] ❌ Attempt 3 failed for nadkarsuraj1996@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a58c158cc1sm63699685ad.24 - gsmtp')
+[2026-01-15 13:08:38] ❌ Email failed for nadkarsuraj1996@gmail.com
+[2026-01-15 13:08:40] ❌ Attempt 1 failed for manish.shah03@hotmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b4811sm1613418b3a.9 - gsmtp')
+[2026-01-15 13:08:45] ❌ Attempt 2 failed for manish.shah03@hotmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc05cd9d9sm25412299a12.16 - gsmtp')
+[2026-01-15 13:08:51] ❌ Attempt 3 failed for manish.shah03@hotmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3abb0sm248524755ad.11 - gsmtp')
+[2026-01-15 13:08:54] ❌ Email failed for manish.shah03@hotmail.com
+[2026-01-15 13:08:56] ❌ Attempt 1 failed for rajmehta0504@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2e1bsm247413175ad.60 - gsmtp')
+[2026-01-15 13:09:01] ❌ Attempt 2 failed for rajmehta0504@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6a7ecfsm1591967b3a.59 - gsmtp')
+[2026-01-15 13:09:07] ❌ Attempt 3 failed for rajmehta0504@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6751edsm1607107b3a.49 - gsmtp')
+[2026-01-15 13:09:10] ❌ Email failed for rajmehta0504@gmail.com
+[2026-01-15 13:09:12] ❌ Attempt 1 failed for dakshasolanki1998@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e64c8dfsm1603247b3a.34 - gsmtp')
+[2026-01-15 13:09:17] ❌ Attempt 2 failed for dakshasolanki1998@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c15sm241745815ad.27 - gsmtp')
+[2026-01-15 13:09:23] ❌ Attempt 3 failed for dakshasolanki1998@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2b72sm245918455ad.51 - gsmtp')
+[2026-01-15 13:09:26] ❌ Email failed for dakshasolanki1998@gmail.com
+[2026-01-15 13:09:28] ❌ Attempt 1 failed for mehulmakwana12371@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ec701sm1299872a91.5 - gsmtp')
+[2026-01-15 13:09:34] ❌ Attempt 2 failed for mehulmakwana12371@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c15sm241752715ad.27 - gsmtp')
+[2026-01-15 13:09:39] ❌ Attempt 3 failed for mehulmakwana12371@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd469dsm247481095ad.94 - gsmtp')
+[2026-01-15 13:09:42] ❌ Email failed for mehulmakwana12371@gmail.com
+[2026-01-15 13:09:44] ❌ Attempt 1 failed for akshatshah9321993942@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352675f8e97sm1318748a91.0 - gsmtp')
+[2026-01-15 13:09:50] ❌ Attempt 2 failed for akshatshah9321993942@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c5cefbsm239616285ad.43 - gsmtp')
+[2026-01-15 13:09:56] ❌ Attempt 3 failed for akshatshah9321993942@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a58d17a305sm64588005ad.58 - gsmtp')
+[2026-01-15 13:09:59] ❌ Email failed for akshatshah9321993942@gmail.com
+[2026-01-15 13:10:01] ❌ Attempt 1 failed for nilay.shah6442@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2e01sm241541835ad.46 - gsmtp')
+[2026-01-15 13:10:06] ❌ Attempt 2 failed for nilay.shah6442@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc88d9sm10620045ad.80 - gsmtp')
+[2026-01-15 13:10:12] ❌ Attempt 3 failed for nilay.shah6442@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107b8c8d5sm2055116a91.6 - gsmtp')
+[2026-01-15 13:10:15] ❌ Email failed for nilay.shah6442@gmail.com
+[2026-01-15 13:10:18] ❌ Attempt 1 failed for swatiwaghare13@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2fe3sm246825885ad.59 - gsmtp')
+[2026-01-15 13:10:23] ❌ Attempt 2 failed for swatiwaghare13@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e64bfc0sm1604237b3a.39 - gsmtp')
+[2026-01-15 13:10:28] ❌ Attempt 3 failed for swatiwaghare13@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6a972dsm1605674b3a.61 - gsmtp')
+[2026-01-15 13:10:31] ❌ Email failed for swatiwaghare13@gmail.com
+[2026-01-15 13:10:34] ❌ Attempt 1 failed for aniketbhayaje145@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ec743sm1328256a91.6 - gsmtp')
+[2026-01-15 13:10:39] ❌ Attempt 2 failed for aniketbhayaje145@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b4fc6sm1610638b3a.6 - gsmtp')
+[2026-01-15 13:10:45] ❌ Attempt 3 failed for aniketbhayaje145@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-351068fe22esm2073848a91.2 - gsmtp')
+[2026-01-15 13:10:48] ❌ Email failed for aniketbhayaje145@gmail.com
+[2026-01-15 13:10:50] ❌ Attempt 1 failed for surajwaghare@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a58d17a305sm64613115ad.58 - gsmtp')
+[2026-01-15 13:10:56] ❌ Attempt 2 failed for surajwaghare@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e64bfc0sm1606010b3a.39 - gsmtp')
+[2026-01-15 13:11:02] ❌ Attempt 3 failed for surajwaghare@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107890f85sm2258500a91.1 - gsmtp')
+[2026-01-15 13:11:05] ❌ Email failed for surajwaghare@gmail.com
+[2026-01-15 13:11:07] ❌ Attempt 1 failed for kailasmita339@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc05cd87asm24083688a12.15 - gsmtp')
+[2026-01-15 13:11:13] ❌ Attempt 2 failed for kailasmita339@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc8803sm244780755ad.71 - gsmtp')
+[2026-01-15 13:11:19] ❌ Attempt 3 failed for kailasmita339@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ec7a8sm1255288a91.7 - gsmtp')
+[2026-01-15 13:11:22] ❌ Email failed for kailasmita339@gmail.com
+[2026-01-15 13:11:24] ❌ Attempt 1 failed for jigneshmohite1997@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c15sm241802345ad.27 - gsmtp')
+[2026-01-15 13:11:30] ❌ Attempt 2 failed for jigneshmohite1997@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4fabc8sm1643141b3a.30 - gsmtp')
+[2026-01-15 13:11:35] ❌ Attempt 3 failed for jigneshmohite1997@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2e1bsm247485865ad.60 - gsmtp')
+[2026-01-15 13:11:38] ❌ Email failed for jigneshmohite1997@gmail.com
+[2026-01-15 13:11:40] ❌ Attempt 1 failed for sushmitachibde0201@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ba665sm1268640a91.4 - gsmtp')
+[2026-01-15 13:11:46] ❌ Attempt 2 failed for sushmitachibde0201@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2e26sm240846165ad.48 - gsmtp')
+[2026-01-15 13:11:51] ❌ Attempt 3 failed for sushmitachibde0201@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678c6dbesm1302470a91.16 - gsmtp')
+[2026-01-15 13:11:54] ❌ Email failed for sushmitachibde0201@gmail.com
+[2026-01-15 13:11:57] ❌ Attempt 1 failed for sushantdhaple909@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e65097asm1607288b3a.37 - gsmtp')
+[2026-01-15 13:12:02] ❌ Attempt 2 failed for sushantdhaple909@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc8d2952dsm11486076a12.17 - gsmtp')
+[2026-01-15 13:12:07] ❌ Attempt 3 failed for sushantdhaple909@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2d88sm247032515ad.52 - gsmtp')
+[2026-01-15 13:12:10] ❌ Email failed for sushantdhaple909@gmail.com
+[2026-01-15 13:12:13] ❌ Attempt 1 failed for kavitadarji204@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a59c92ef0bsm32645535ad.101 - gsmtp')
+[2026-01-15 13:12:18] ❌ Attempt 2 failed for kavitadarji204@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e676f56sm1600754b3a.46 - gsmtp')
+[2026-01-15 13:12:24] ❌ Attempt 3 failed for kavitadarji204@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a596365ce0sm41902625ad.41 - gsmtp')
+[2026-01-15 13:12:27] ❌ Email failed for kavitadarji204@gmail.com
+[2026-01-15 13:12:29] ❌ Attempt 1 failed for shethshubham.8@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4c2293sm1666385b3a.13 - gsmtp')
+[2026-01-15 13:12:35] ❌ Attempt 2 failed for shethshubham.8@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a56csm66494195ad.20 - gsmtp')
+[2026-01-15 13:12:40] ❌ Attempt 3 failed for shethshubham.8@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6751edsm1618110b3a.49 - gsmtp')
+[2026-01-15 13:12:43] ❌ Email failed for shethshubham.8@gmail.com
+[2026-01-15 13:12:46] ❌ Attempt 1 failed for vileshshah1963@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6751edsm1618371b3a.49 - gsmtp')
+[2026-01-15 13:12:51] ❌ Attempt 2 failed for vileshshah1963@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd2954sm79354135ad.86 - gsmtp')
+[2026-01-15 13:12:57] ❌ Attempt 3 failed for vileshshah1963@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-3526782a928sm1281417a91.16 - gsmtp')
+[2026-01-15 13:13:00] ❌ Email failed for vileshshah1963@gmail.com
+[2026-01-15 13:13:02] ❌ Attempt 1 failed for ritesh7573@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a2eesm79452585ad.6 - gsmtp')
+[2026-01-15 13:13:07] ❌ Attempt 2 failed for ritesh7573@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af3dcsm1298579a91.9 - gsmtp')
+[2026-01-15 13:13:13] ❌ Attempt 3 failed for ritesh7573@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc95d5dbfsm24060041a12.27 - gsmtp')
+[2026-01-15 13:13:16] ❌ Email failed for ritesh7573@gmail.com
+[2026-01-15 13:13:18] ❌ Attempt 1 failed for swatijp.kolte@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-351067d39b4sm2144760a91.0 - gsmtp')
+[2026-01-15 13:13:24] ❌ Attempt 2 failed for swatijp.kolte@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a507sm241730765ad.3 - gsmtp')
+[2026-01-15 13:13:29] ❌ Attempt 3 failed for swatijp.kolte@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ec7dasm1318504a91.8 - gsmtp')
+[2026-01-15 13:13:32] ❌ Email failed for swatijp.kolte@gmail.com
+[2026-01-15 13:13:34] ❌ Attempt 1 failed for shriddhipawar@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35267809f4esm1283257a91.9 - gsmtp')
+[2026-01-15 13:13:40] ❌ Attempt 2 failed for shriddhipawar@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc9e7e824sm24275450a12.30 - gsmtp')
+[2026-01-15 13:13:46] ❌ Attempt 3 failed for shriddhipawar@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2d79sm250079425ad.56 - gsmtp')
+[2026-01-15 13:13:49] ❌ Email failed for shriddhipawar@gmail.com
+[2026-01-15 13:13:52] ❌ Attempt 1 failed for belvalkarnitin@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6ab4a9sm1607364b3a.65 - gsmtp')
+[2026-01-15 13:13:57] ❌ Attempt 2 failed for belvalkarnitin@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cbfe1ca24sm5217671a12.12 - gsmtp')
+[2026-01-15 13:14:03] ❌ Attempt 3 failed for belvalkarnitin@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48be5sm246913715ad.30 - gsmtp')
+[2026-01-15 13:14:06] ❌ Email failed for belvalkarnitin@gmail.com
+[2026-01-15 13:14:08] ❌ Attempt 1 failed for rahulpotle55@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd2906sm243613305ad.87 - gsmtp')
+[2026-01-15 13:14:13] ❌ Attempt 2 failed for rahulpotle55@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c2bsm241693015ad.26 - gsmtp')
+[2026-01-15 13:14:19] ❌ Attempt 3 failed for rahulpotle55@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e679017sm1613370b3a.51 - gsmtp')
+[2026-01-15 13:14:22] ❌ Email failed for rahulpotle55@gmail.com
+[2026-01-15 13:14:24] ❌ Attempt 1 failed for bharakhadap@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c75sm249019635ad.35 - gsmtp')
+[2026-01-15 13:14:30] ❌ Attempt 2 failed for bharakhadap@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107890f85sm2263379a91.1 - gsmtp')
+[2026-01-15 13:14:35] ❌ Attempt 3 failed for bharakhadap@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b7e8esm1624200b3a.7 - gsmtp')
+[2026-01-15 13:14:38] ❌ Email failed for bharakhadap@gmail.com
+[2026-01-15 13:14:41] ❌ Attempt 1 failed for piyushsolanki1018@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc8d292fcsm23989475a12.20 - gsmtp')
+[2026-01-15 13:14:46] ❌ Attempt 2 failed for piyushsolanki1018@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677e1a3bsm1321806a91.7 - gsmtp')
+[2026-01-15 13:14:52] ❌ Attempt 3 failed for piyushsolanki1018@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35107c16331sm1628837a91.8 - gsmtp')
+[2026-01-15 13:14:55] ❌ Email failed for piyushsolanki1018@gmail.com
+[2026-01-15 13:14:57] ❌ Attempt 1 failed for ankurshah351981@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e676ca8sm1618999b3a.50 - gsmtp')
+[2026-01-15 13:15:03] ❌ Attempt 2 failed for ankurshah351981@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2f8asm247731185ad.57 - gsmtp')
+[2026-01-15 13:15:08] ❌ Attempt 3 failed for ankurshah351981@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c54972a5e67sm17307145a12.35 - gsmtp')
+[2026-01-15 13:15:11] ❌ Email failed for ankurshah351981@gmail.com
+[2026-01-15 13:15:14] ❌ Attempt 1 failed for ninadmahadik732@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cd4401sm248384575ad.92 - gsmtp')
+[2026-01-15 13:15:19] ❌ Attempt 2 failed for ninadmahadik732@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a56csm66566475ad.20 - gsmtp')
+[2026-01-15 13:15:25] ❌ Attempt 3 failed for ninadmahadik732@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678ef77fsm1274623a91.17 - gsmtp')
+[2026-01-15 13:15:28] ❌ Email failed for ninadmahadik732@gmail.com
+[2026-01-15 13:15:30] ❌ Attempt 1 failed for harishsodiye74@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b87e8sm1130719b3a.11 - gsmtp')
+[2026-01-15 13:15:35] ❌ Attempt 2 failed for harishsodiye74@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ba62csm1310953a91.2 - gsmtp')
+[2026-01-15 13:15:41] ❌ Attempt 3 failed for harishsodiye74@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6aa7f6sm1627202b3a.66 - gsmtp')
+[2026-01-15 13:15:44] ❌ Email failed for harishsodiye74@gmail.com
+[2026-01-15 13:15:46] ❌ Attempt 1 failed for riddhigandhijangid@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cbf28f6cdsm23905602a12.6 - gsmtp')
+[2026-01-15 13:15:52] ❌ Attempt 2 failed for riddhigandhijangid@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc9e7e8afsm23952447a12.29 - gsmtp')
+[2026-01-15 13:15:58] ❌ Attempt 3 failed for riddhigandhijangid@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af03csm1309625a91.12 - gsmtp')
+[2026-01-15 13:16:01] ❌ Email failed for riddhigandhijangid@gmail.com
+[2026-01-15 13:16:03] ❌ Attempt 1 failed for ssdharmil@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4f5276sm1651212b3a.24 - gsmtp')
+[2026-01-15 13:16:09] ❌ Attempt 2 failed for ssdharmil@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e650589sm1646882b3a.38 - gsmtp')
+[2026-01-15 13:16:14] ❌ Attempt 3 failed for ssdharmil@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4f5276sm1651795b3a.24 - gsmtp')
+[2026-01-15 13:16:17] ❌ Email failed for ssdharmil@gmail.com
+[2026-01-15 13:16:20] ❌ Attempt 1 failed for bhavya13178@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2eabsm240190065ad.49 - gsmtp')
+[2026-01-15 13:16:25] ❌ Attempt 2 failed for bhavya13178@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc05cd87asm24094655a12.15 - gsmtp')
+[2026-01-15 13:16:31] ❌ Attempt 3 failed for bhavya13178@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a2f7sm249371585ad.16 - gsmtp')
+[2026-01-15 13:16:34] ❌ Email failed for bhavya13178@gmail.com
+[2026-01-15 13:16:37] ❌ Attempt 1 failed for 9krutishah@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a58d17a305sm64769875ad.58 - gsmtp')
+[2026-01-15 13:16:42] ❌ Attempt 2 failed for 9krutishah@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4fb25csm1651056b3a.28 - gsmtp')
+[2026-01-15 13:16:47] ❌ Attempt 3 failed for 9krutishah@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c0bsm65130535ad.31 - gsmtp')
+[2026-01-15 13:16:50] ❌ Email failed for 9krutishah@gmail.com
+[2026-01-15 13:16:53] ❌ Attempt 1 failed for ashishshah8311@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4f8addsm1645762b3a.27 - gsmtp')
+[2026-01-15 13:16:58] ❌ Attempt 2 failed for ashishshah8311@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c2bsm241766375ad.26 - gsmtp')
+[2026-01-15 13:17:04] ❌ Attempt 3 failed for ashishshah8311@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 41be03b00d2f7-c4cc95d5dbfsm24068676a12.27 - gsmtp')
+[2026-01-15 13:17:07] ❌ Email failed for ashishshah8311@gmail.com
+[2026-01-15 13:17:09] ❌ Attempt 1 failed for hetalrajawat81@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a4f1sm239539415ad.8 - gsmtp')
+[2026-01-15 13:17:15] ❌ Attempt 2 failed for hetalrajawat81@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677e1581sm1307358a91.5 - gsmtp')
+[2026-01-15 13:17:20] ❌ Attempt 3 failed for hetalrajawat81@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc88f1sm241327825ad.78 - gsmtp')
+[2026-01-15 13:17:23] ❌ Email failed for hetalrajawat81@gmail.com
+[2026-01-15 13:17:26] ❌ Attempt 1 failed for kaushikrathod01@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c49299sm241167265ad.42 - gsmtp')
+[2026-01-15 13:17:31] ❌ Attempt 2 failed for kaushikrathod01@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c3a31dsm244352525ad.9 - gsmtp')
+[2026-01-15 13:17:37] ❌ Attempt 3 failed for kaushikrathod01@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2b4dsm249926275ad.54 - gsmtp')
+[2026-01-15 13:17:40] ❌ Email failed for kaushikrathod01@gmail.com
+[2026-01-15 13:17:43] ❌ Attempt 1 failed for mitshah3005@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b4b21sm1637607b3a.12 - gsmtp')
+[2026-01-15 13:17:48] ❌ Attempt 2 failed for mitshah3005@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e6a7ecfsm1618385b3a.59 - gsmtp')
+[2026-01-15 13:17:54] ❌ Attempt 3 failed for mitshah3005@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc88c2sm243877075ad.79 - gsmtp')
+[2026-01-15 13:17:57] ❌ Email failed for mitshah3005@gmail.com
+[2026-01-15 13:17:59] ❌ Attempt 1 failed for harshadchalke2@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b6ca9sm1624838b3a.4 - gsmtp')
+[2026-01-15 13:18:05] ❌ Attempt 2 failed for harshadchalke2@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cc87f8sm242744115ad.77 - gsmtp')
+[2026-01-15 13:18:18] ❌ Attempt 3 failed for harshadchalke2@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352676058d2sm1344896a91.0 - gsmtp')
+[2026-01-15 13:18:21] ❌ Email failed for harshadchalke2@gmail.com
+[2026-01-15 13:18:23] ❌ Attempt 1 failed for shahgarv3000@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e69d1e7sm1651275b3a.58 - gsmtp')
+[2026-01-15 13:18:29] ❌ Attempt 2 failed for shahgarv3000@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-35267829375sm1345716a91.13 - gsmtp')
+[2026-01-15 13:18:34] ❌ Attempt 3 failed for shahgarv3000@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352678af03csm1315734a91.12 - gsmtp')
+[2026-01-15 13:18:37] ❌ Email failed for shahgarv3000@gmail.com
+[2026-01-15 13:18:40] ❌ Attempt 1 failed for sbadbe77@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2fe3sm247052335ad.59 - gsmtp')
+[2026-01-15 13:18:45] ❌ Attempt 2 failed for sbadbe77@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3cb2e26sm241030135ad.48 - gsmtp')
+[2026-01-15 13:18:50] ❌ Attempt 3 failed for sbadbe77@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48be5sm247042695ad.30 - gsmtp')
+[2026-01-15 13:18:53] ❌ Email failed for sbadbe77@gmail.com
+[2026-01-15 13:18:56] ❌ Attempt 1 failed for janvikadam972@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e676ca8sm1631457b3a.50 - gsmtp')
+[2026-01-15 13:19:01] ❌ Attempt 2 failed for janvikadam972@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d2e1a72fcca58-81f8e4b6d51sm1616259b3a.2 - gsmtp')
+[2026-01-15 13:19:07] ❌ Attempt 3 failed for janvikadam972@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c39fefsm247404225ad.17 - gsmtp')
+[2026-01-15 13:19:10] ❌ Email failed for janvikadam972@gmail.com
+[2026-01-15 13:19:12] ❌ Attempt 1 failed for gauravsavla8@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:19:16] ❌ Attempt 2 failed for gauravsavla8@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:19:20] ❌ Attempt 3 failed for gauravsavla8@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:19:23] ❌ Email failed for gauravsavla8@gmail.com
+[2026-01-15 13:19:25] ❌ Attempt 1 failed for avinash27hodbe@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:19:29] ❌ Attempt 2 failed for avinash27hodbe@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:19:34] ❌ Attempt 3 failed for avinash27hodbe@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:19:37] ❌ Email failed for avinash27hodbe@gmail.com
+[2026-01-15 13:19:38] ❌ Attempt 1 failed for mayankgjain27@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:19:43] ❌ Attempt 2 failed for mayankgjain27@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:19:47] ❌ Attempt 3 failed for mayankgjain27@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:19:50] ❌ Email failed for mayankgjain27@gmail.com
+[2026-01-15 13:19:52] ❌ Attempt 1 failed for pratikbhatt14@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:19:56] ❌ Attempt 2 failed for pratikbhatt14@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:00] ❌ Attempt 3 failed for pratikbhatt14@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:03] ❌ Email failed for pratikbhatt14@gmail.com
+[2026-01-15 13:20:05] ❌ Attempt 1 failed for pachavane29@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:10] ❌ Attempt 2 failed for pachavane29@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:14] ❌ Attempt 3 failed for pachavane29@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:17] ❌ Email failed for pachavane29@gmail.com
+[2026-01-15 13:20:18] ❌ Attempt 1 failed for rohitdas8586@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:23] ❌ Attempt 2 failed for rohitdas8586@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:27] ❌ Attempt 3 failed for rohitdas8586@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:30] ❌ Email failed for rohitdas8586@gmail.com
+[2026-01-15 13:20:32] ❌ Attempt 1 failed for pritam.adkhale0612@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:36] ❌ Attempt 2 failed for pritam.adkhale0612@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:41] ❌ Attempt 3 failed for pritam.adkhale0612@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:44] ❌ Email failed for pritam.adkhale0612@gmail.com
+[2026-01-15 13:20:45] ❌ Attempt 1 failed for Og213195@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:50] ❌ Attempt 2 failed for Og213195@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:54] ❌ Attempt 3 failed for Og213195@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:20:57] ❌ Email failed for Og213195@gmail.com
+[2026-01-15 13:20:58] ❌ Attempt 1 failed for rishabhmujpura09@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:03] ❌ Attempt 2 failed for rishabhmujpura09@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:07] ❌ Attempt 3 failed for rishabhmujpura09@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:10] ❌ Email failed for rishabhmujpura09@gmail.com
+[2026-01-15 13:21:12] ❌ Attempt 1 failed for prashantdesai325@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:17] ❌ Attempt 2 failed for prashantdesai325@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:21] ❌ Attempt 3 failed for prashantdesai325@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:24] ❌ Email failed for prashantdesai325@gmail.com
+[2026-01-15 13:21:26] ❌ Attempt 1 failed for milan.shah55@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:30] ❌ Attempt 2 failed for milan.shah55@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:34] ❌ Attempt 3 failed for milan.shah55@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:37] ❌ Email failed for milan.shah55@gmail.com
+[2026-01-15 13:21:39] ❌ Attempt 1 failed for tejas.jadhav2020@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:43] ❌ Attempt 2 failed for tejas.jadhav2020@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:48] ❌ Attempt 3 failed for tejas.jadhav2020@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:51] ❌ Email failed for tejas.jadhav2020@gmail.com
+[2026-01-15 13:21:53] ❌ Attempt 1 failed for skapadia919@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:21:57] ❌ Attempt 2 failed for skapadia919@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:22:02] ❌ Attempt 3 failed for skapadia919@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:22:05] ❌ Email failed for skapadia919@gmail.com
+[2026-01-15 13:22:07] ❌ Attempt 1 failed for kisansinhdabhi3@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:22:11] ❌ Attempt 2 failed for kisansinhdabhi3@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:22:16] ❌ Attempt 3 failed for kisansinhdabhi3@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:22:19] ❌ Email failed for kisansinhdabhi3@gmail.com
+[2026-01-15 13:22:20] ❌ Attempt 1 failed for diyam1106@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:22:25] ❌ Attempt 2 failed for diyam1106@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:22:29] ❌ Attempt 3 failed for diyam1106@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:22:32] ❌ Email failed for diyam1106@gmail.com
+[2026-01-15 13:22:34] ❌ Attempt 1 failed for pragativarma2000@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:22:38] ❌ Attempt 2 failed for pragativarma2000@gmail.com: Connection unexpectedly closed
+[2026-01-15 13:44:26] ❌ Attempt 3 failed for pragativarma2000@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 98e67ed59e1d1-352677ca922sm1372909a91.3 - gsmtp')
+[2026-01-15 13:44:29] ❌ Email failed for pragativarma2000@gmail.com
+[2026-01-15 13:44:32] ❌ Attempt 1 failed for manavshah1199@gmail.com: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d9443c01a7336-2a3e3c48c15sm242680395ad.27 - gsmtp')
+[2026-02-05 10:38:21] ✅ Connected to SQL Server
+[2026-02-05 10:38:21] ✅ Attendance data fetched successfully
+[2026-02-05 10:38:22] ✅ Connected to Amazon SES SMTP
+[2026-02-05 10:38:22] ❌ Email failed for rinkushah02@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rinkushah02@gmail.com')
+[2026-02-05 10:38:24] ❌ Email failed for dharmeshrathod0607@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: dharmeshrathod0607@gmail.com')
+[2026-02-05 10:38:26] ❌ Email failed for sonalidhumal69@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sonalidhumal69@gmail.com')
+[2026-02-05 10:38:28] ❌ Email failed for mayurwangne11@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mayurwangne11@gmail.com')
+[2026-02-05 10:38:31] ❌ Email failed for mahalungepravin@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mahalungepravin@gmail.com')
+[2026-02-06 10:41:53] ✅ Connected to SQL Server
+[2026-02-06 10:41:53] ✅ Attendance data fetched successfully
+[2026-02-06 10:41:53] ✅ Connected to Amazon SES SMTP
+[2026-02-06 10:41:54] ❌ Email failed for rinkushah02@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rinkushah02@gmail.com')
+[2026-02-06 10:41:56] ❌ Email failed for dharmeshrathod0607@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: dharmeshrathod0607@gmail.com')
+[2026-02-06 10:41:58] ❌ Email failed for sonalidhumal69@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sonalidhumal69@gmail.com')
+[2026-02-06 11:05:54] ✅ Connected to SQL Server
+[2026-02-06 11:05:55] ✅ Attendance data fetched successfully
+[2026-02-06 11:05:55] ✅ Connected to Amazon SES SMTP
+[2026-02-06 11:05:55] ❌ Email failed for rinkushah02@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rinkushah02@gmail.com')
+[2026-02-06 11:05:57] ❌ Email failed for dharmeshrathod0607@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: dharmeshrathod0607@gmail.com')
+[2026-02-06 11:05:59] ❌ Email failed for sonalidhumal69@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sonalidhumal69@gmail.com')
+[2026-02-06 11:06:01] ❌ Email failed for mayurwangne11@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mayurwangne11@gmail.com')
+[2026-02-06 11:06:03] ❌ Email failed for mahalungepravin@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mahalungepravin@gmail.com')
+[2026-02-06 11:06:05] ❌ Email failed for nihar.sanghavi@yahoo.co.in: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: nihar.sanghavi@yahoo.co.in')
+[2026-02-06 11:06:07] ❌ Email failed for hardiksheth941@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: hardiksheth941@gmail.com')
+[2026-02-06 11:06:09] ❌ Email failed for kalghuge24@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kalghuge24@gmail.com')
+[2026-02-06 11:06:11] ❌ Email failed for mansitambe716@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mansitambe716@gmail.com')
+[2026-02-06 11:06:13] ❌ Email failed for sadanandambekar6@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sadanandambekar6@gmail.com')
+[2026-02-06 11:06:16] ❌ Email failed for ketan.parmar3007@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ketan.parmar3007@gmail.com')
+[2026-02-06 11:06:18] ❌ Email failed for rashesh.doshi@yahoo.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rashesh.doshi@yahoo.com')
+[2026-02-06 11:06:20] ❌ Email failed for akshaymehta2023@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: akshaymehta2023@gmail.com')
+[2026-02-06 11:06:22] ❌ Email failed for patabhaidesai555@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: patabhaidesai555@gmail.com')
+[2026-02-06 11:06:24] ❌ Email failed for avinashkawli@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: avinashkawli@gmail.com')
+[2026-02-06 11:06:26] ❌ Email failed for avasthikamlesh10@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: avasthikamlesh10@gmail.com')
+[2026-02-06 11:06:28] ❌ Email failed for smitamorde1981@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: smitamorde1981@gmail.com')
+[2026-02-06 11:06:30] ❌ Email failed for nateamit05@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: nateamit05@gmail.com')
+[2026-02-06 11:06:32] ⚠ Skipped Sushilkumar N Shah — Invalid email
+[2026-02-06 11:06:32] ⚠ Skipped Rameshbhai M Purohit — Invalid email
+[2026-02-06 11:06:32] ⚠ Skipped Ganeshbhai N Purohit — Invalid email
+[2026-02-06 11:06:32] ⚠ Skipped Ganeshbhai M Rajgor — Invalid email
+[2026-02-06 11:06:32] ⚠ Skipped Sevantilal R Vohera — Invalid email
+[2026-02-06 11:06:32] ⚠ Skipped Dashrathsinh R Rathod — Invalid email
+[2026-02-06 11:06:32] ⚠ Skipped Harsh P Shah — Invalid email
+[2026-02-06 11:06:32] ⚠ Skipped Shasan C Shah — Invalid email
+[2026-02-06 11:06:32] ⚠ Skipped Janak N Bohara — Invalid email
+[2026-02-06 11:06:32] ⚠ Skipped Pravinbhai L Va — Invalid email
+[2026-02-06 11:06:32] ⚠ Skipped Vishal B Shah — Invalid email
+[2026-02-06 11:06:32] ❌ Email failed for jaybuddhadev777@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: jaybuddhadev777@gmail.com')
+[2026-02-06 11:06:34] ❌ Email failed for vanitarikame033@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: vanitarikame033@gmail.com')
+[2026-02-06 11:06:36] ❌ Email failed for anushkapatole1576@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: anushkapatole1576@gmail.com')
+[2026-02-06 11:06:38] ❌ Email failed for 102022shaurya@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: 102022shaurya@gmail.com')
+[2026-02-06 11:06:40] ❌ Email failed for kevindani79@yahoo.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kevindani79@yahoo.com')
+[2026-02-06 11:06:42] ❌ Email failed for kamalmehta30@yahoo.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kamalmehta30@yahoo.com')
+[2026-02-06 11:06:44] ❌ Email failed for rikameamit22@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rikameamit22@gmail.com')
+[2026-02-06 11:06:47] ❌ Email failed for sudarsansolkar@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sudarsansolkar@gmail.com')
+[2026-02-06 11:06:49] ❌ Email failed for kardebhawana@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kardebhawana@gmail.com')
+[2026-02-06 11:06:51] ❌ Email failed for upendrachorge@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: upendrachorge@gmail.com')
+[2026-02-06 11:06:53] ❌ Email failed for rakhirathod1983@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rakhirathod1983@gmail.com')
+[2026-02-06 11:06:55] ❌ Email failed for pankajmehta1983@yahoo.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: pankajmehta1983@yahoo.com')
+[2026-02-06 11:06:57] ❌ Email failed for anuradharya4797@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: anuradharya4797@gmail.com')
+[2026-02-06 11:06:59] ❌ Email failed for tussc27@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: tussc27@gmail.com')
+[2026-02-06 11:07:01] ❌ Email failed for aagamsheth2000@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: aagamsheth2000@gmail.com')
+[2026-02-06 11:07:03] ❌ Email failed for kishanbhojak92@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kishanbhojak92@gmail.com')
+[2026-02-06 11:07:05] ❌ Email failed for gawde.vinayak123@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: gawde.vinayak123@gmail.com')
+[2026-02-06 11:07:07] ❌ Email failed for sunilpawar0605@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sunilpawar0605@gmail.com')
+[2026-02-06 11:07:09] ❌ Email failed for abhaydesai02@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: abhaydesai02@gmail.com')
+[2026-02-06 11:07:11] ❌ Email failed for atakle920@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: atakle920@gmail.com')
+[2026-02-06 11:07:13] ❌ Email failed for account301@hotmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: account301@hotmail.com')
+[2026-02-06 11:07:15] ❌ Email failed for sushmaraut1987@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sushmaraut1987@gmail.com')
+[2026-02-06 11:07:17] ❌ Email failed for bhaveshk1966@rediffmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: bhaveshk1966@rediffmail.com')
+[2026-02-06 11:07:19] ❌ Email failed for mankambli80@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mankambli80@gmail.com')
+[2026-02-06 11:07:21] ❌ Email failed for ruhinshah27@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ruhinshah27@gmail.com')
+[2026-02-06 11:07:24] ❌ Email failed for rakeshdusar1@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rakeshdusar1@gmail.com')
+[2026-02-06 11:07:26] ❌ Email failed for ramojwaranita@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ramojwaranita@gmail.com')
+[2026-02-06 11:07:28] ❌ Email failed for sushmachivilkar306@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sushmachivilkar306@gmail.com')
+[2026-02-06 11:07:30] ❌ Email failed for ankesharade12@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ankesharade12@gmail.com')
+[2026-02-06 11:07:32] ❌ Email failed for meetshashikantshah@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: meetshashikantshah@gmail.com')
+[2026-02-06 11:07:34] ❌ Email failed for kaushikshah18.ks@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kaushikshah18.ks@gmail.com')
+[2026-02-06 11:07:36] ❌ Email failed for mehta003sagar@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mehta003sagar@gmail.com')
+[2026-02-06 11:07:38] ❌ Email failed for vaktusinhrathod4@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: vaktusinhrathod4@gmail.com')
+[2026-02-06 11:07:40] ❌ Email failed for bhimabhaipurohit@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: bhimabhaipurohit@gmail.com')
+[2026-02-06 11:07:42] ❌ Email failed for vedakmanisha@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: vedakmanisha@gmail.com')
+[2026-02-06 11:07:44] ❌ Email failed for surakshab87@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: surakshab87@gmail.com')
+[2026-02-06 11:07:46] ❌ Email failed for ranjanekashinath@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ranjanekashinath@gmail.com')
+[2026-02-06 11:07:48] ❌ Email failed for voranatwarlal1@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: voranatwarlal1@gmail.com')
+[2026-02-06 11:07:50] ❌ Email failed for rakeshpatane1990@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rakeshpatane1990@gmail.com')
+[2026-02-06 11:07:52] ❌ Email failed for arpitakaralkar@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: arpitakaralkar@gmail.com')
+[2026-02-06 11:07:54] ❌ Email failed for shauryashah000@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shauryashah000@gmail.com')
+[2026-02-06 11:07:57] ❌ Email failed for shelarn724@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shelarn724@gmail.com')
+[2026-02-06 11:07:59] ❌ Email failed for shahyash509@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shahyash509@gmail.com')
+[2026-02-06 11:08:01] ❌ Email failed for hareshraygor31@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: hareshraygor31@gmail.com')
+[2026-02-06 11:08:03] ❌ Email failed for trilokichaudhary68@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: trilokichaudhary68@gmail.com')
+[2026-02-06 11:08:05] ❌ Email failed for surajshah0702@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: surajshah0702@gmail.com')
+[2026-02-06 11:08:07] ❌ Email failed for gavdeprashant2@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: gavdeprashant2@gmail.com')
+[2026-02-06 11:08:09] ❌ Email failed for sachingharat28@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sachingharat28@gmail.com')
+[2026-02-06 11:08:11] ❌ Email failed for kbabariya9@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kbabariya9@gmail.com')
+[2026-02-06 11:08:13] ❌ Email failed for amolsodaye444@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: amolsodaye444@gmail.com')
+[2026-02-06 11:08:15] ❌ Email failed for jainammehta365@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: jainammehta365@gmail.com')
+[2026-02-06 11:08:17] ❌ Email failed for shaileshmahadik916@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shaileshmahadik916@gmail.com')
+[2026-02-06 11:08:19] ❌ Email failed for vanitashedge1432@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: vanitashedge1432@gmail.com')
+[2026-02-06 11:08:21] ❌ Email failed for nikunjghia789@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: nikunjghia789@gmail.com')
+[2026-02-06 11:08:23] ❌ Email failed for shreeparshwaelectro@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shreeparshwaelectro@gmail.com')
+[2026-02-06 11:08:25] ❌ Email failed for nadkarsuraj1996@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: nadkarsuraj1996@gmail.com')
+[2026-02-06 11:08:27] ❌ Email failed for manish.shah03@hotmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: manish.shah03@hotmail.com')
+[2026-02-06 11:08:29] ❌ Email failed for rajmehta0504@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rajmehta0504@gmail.com')
+[2026-02-06 11:08:32] ❌ Email failed for dakshasolanki1998@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: dakshasolanki1998@gmail.com')
+[2026-02-06 11:08:34] ❌ Email failed for mehulmakwana12371@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mehulmakwana12371@gmail.com')
+[2026-02-06 11:08:36] ❌ Email failed for akshatshah9321993942@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: akshatshah9321993942@gmail.com')
+[2026-02-06 11:08:38] ❌ Email failed for nilay.shah6442@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: nilay.shah6442@gmail.com')
+[2026-02-06 11:08:40] ❌ Email failed for swatiwaghare13@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: swatiwaghare13@gmail.com')
+[2026-02-06 11:08:42] ❌ Email failed for aniketbhayaje145@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: aniketbhayaje145@gmail.com')
+[2026-02-06 11:08:44] ❌ Email failed for surajwaghare@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: surajwaghare@gmail.com')
+[2026-02-06 11:08:46] ❌ Email failed for kailasmita339@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kailasmita339@gmail.com')
+[2026-02-06 11:08:48] ❌ Email failed for jigneshmohite1997@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: jigneshmohite1997@gmail.com')
+[2026-02-06 11:08:50] ❌ Email failed for sushmitachibde0201@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sushmitachibde0201@gmail.com')
+[2026-02-06 11:08:52] ❌ Email failed for sushantdhaple909@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sushantdhaple909@gmail.com')
+[2026-02-06 11:08:54] ❌ Email failed for kavitadarji204@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kavitadarji204@gmail.com')
+[2026-02-06 11:08:56] ❌ Email failed for shethshubham.8@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shethshubham.8@gmail.com')
+[2026-02-06 11:08:58] ❌ Email failed for vileshshah1963@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: vileshshah1963@gmail.com')
+[2026-02-06 11:09:00] ❌ Email failed for ritesh7573@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ritesh7573@gmail.com')
+[2026-02-06 11:09:02] ❌ Email failed for swatijp.kolte@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: swatijp.kolte@gmail.com')
+[2026-02-06 11:09:04] ❌ Email failed for shriddhipawar@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shriddhipawar@gmail.com')
+[2026-02-06 11:09:07] ❌ Email failed for belvalkarnitin@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: belvalkarnitin@gmail.com')
+[2026-02-06 11:09:09] ❌ Email failed for bharakhadap@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: bharakhadap@gmail.com')
+[2026-02-06 11:09:11] ❌ Email failed for ankurshah351981@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ankurshah351981@gmail.com')
+[2026-02-06 11:09:13] ❌ Email failed for ninadmahadik732@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ninadmahadik732@gmail.com')
+[2026-02-06 11:09:15] ❌ Email failed for harishsodiye74@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: harishsodiye74@gmail.com')
+[2026-02-06 11:09:17] ❌ Email failed for riddhigandhijangid@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: riddhigandhijangid@gmail.com')
+[2026-02-06 11:09:19] ❌ Email failed for bhavya13178@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: bhavya13178@gmail.com')
+[2026-02-06 11:09:21] ❌ Email failed for 9krutishah@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: 9krutishah@gmail.com')
+[2026-02-06 11:09:23] ❌ Email failed for ashishshah8311@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ashishshah8311@gmail.com')
+[2026-02-06 11:09:25] ❌ Email failed for hetalrajawat81@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: hetalrajawat81@gmail.com')
+[2026-02-06 11:09:27] ❌ Email failed for kaushikrathod01@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kaushikrathod01@gmail.com')
+[2026-02-06 11:09:29] ❌ Email failed for mitshah3005@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mitshah3005@gmail.com')
+[2026-02-06 11:09:31] ❌ Email failed for harshadchalke2@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: harshadchalke2@gmail.com')
+[2026-02-06 11:09:33] ❌ Email failed for shahgarv3000@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shahgarv3000@gmail.com')
+[2026-02-06 11:09:35] ❌ Email failed for sbadbe77@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sbadbe77@gmail.com')
+[2026-02-06 11:09:37] ❌ Email failed for janvikadam972@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: janvikadam972@gmail.com')
+[2026-02-06 11:09:39] ✅ Email sent successfully to gauravsavla8@gmail.com
+[2026-02-06 11:09:42] ❌ Email failed for avinash27hodbe@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: avinash27hodbe@gmail.com')
+[2026-02-06 11:09:44] ❌ Email failed for mayankgjain27@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mayankgjain27@gmail.com')
+[2026-02-06 11:12:17] ✅ Connected to SQL Server
+[2026-02-06 11:12:17] ✅ Attendance data fetched successfully
+[2026-02-06 11:12:18] ✅ Connected to Amazon SES SMTP
+[2026-02-06 11:12:18] ❌ Email failed for rinkushah02@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rinkushah02@gmail.com')
+[2026-02-06 11:12:20] ❌ Email failed for dharmeshrathod0607@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: dharmeshrathod0607@gmail.com')
+[2026-02-06 11:12:22] ❌ Email failed for sonalidhumal69@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sonalidhumal69@gmail.com')
+[2026-02-06 11:12:24] ❌ Email failed for mayurwangne11@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mayurwangne11@gmail.com')
+[2026-02-06 11:12:26] ❌ Email failed for mahalungepravin@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mahalungepravin@gmail.com')
+[2026-02-06 11:12:28] ❌ Email failed for nihar.sanghavi@yahoo.co.in: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: nihar.sanghavi@yahoo.co.in')
+[2026-02-06 11:12:30] ❌ Email failed for hardiksheth941@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: hardiksheth941@gmail.com')
+[2026-02-06 11:12:32] ❌ Email failed for kalghuge24@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kalghuge24@gmail.com')
+[2026-02-06 11:12:34] ❌ Email failed for mansitambe716@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mansitambe716@gmail.com')
+[2026-02-06 11:12:36] ❌ Email failed for sadanandambekar6@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sadanandambekar6@gmail.com')
+[2026-02-06 11:12:38] ❌ Email failed for ketan.parmar3007@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ketan.parmar3007@gmail.com')
+[2026-02-06 11:12:40] ❌ Email failed for rashesh.doshi@yahoo.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rashesh.doshi@yahoo.com')
+[2026-02-06 11:12:42] ❌ Email failed for akshaymehta2023@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: akshaymehta2023@gmail.com')
+[2026-02-06 11:12:44] ❌ Email failed for patabhaidesai555@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: patabhaidesai555@gmail.com')
+[2026-02-06 11:12:46] ❌ Email failed for avinashkawli@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: avinashkawli@gmail.com')
+[2026-02-06 11:12:49] ❌ Email failed for avasthikamlesh10@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: avasthikamlesh10@gmail.com')
+[2026-02-06 11:12:51] ❌ Email failed for smitamorde1981@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: smitamorde1981@gmail.com')
+[2026-02-06 11:12:53] ❌ Email failed for nateamit05@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: nateamit05@gmail.com')
+[2026-02-06 11:12:55] ⚠ Skipped Sushilkumar N Shah — Invalid email
+[2026-02-06 11:12:55] ⚠ Skipped Rameshbhai M Purohit — Invalid email
+[2026-02-06 11:12:55] ⚠ Skipped Ganeshbhai N Purohit — Invalid email
+[2026-02-06 11:12:55] ⚠ Skipped Ganeshbhai M Rajgor — Invalid email
+[2026-02-06 11:12:55] ⚠ Skipped Sevantilal R Vohera — Invalid email
+[2026-02-06 11:12:55] ⚠ Skipped Dashrathsinh R Rathod — Invalid email
+[2026-02-06 11:12:55] ⚠ Skipped Harsh P Shah — Invalid email
+[2026-02-06 11:12:55] ⚠ Skipped Shasan C Shah — Invalid email
+[2026-02-06 11:12:55] ⚠ Skipped Janak N Bohara — Invalid email
+[2026-02-06 11:12:55] ⚠ Skipped Pravinbhai L Va — Invalid email
+[2026-02-06 11:12:55] ⚠ Skipped Vishal B Shah — Invalid email
+[2026-02-06 11:12:55] ✅ Email sent successfully to jaybuddhadev777@gmail.com
+[2026-02-06 11:12:57] ❌ Email failed for vanitarikame033@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: vanitarikame033@gmail.com')
+[2026-02-06 11:12:59] ❌ Email failed for anushkapatole1576@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: anushkapatole1576@gmail.com')
+[2026-02-06 11:13:01] ❌ Email failed for 102022shaurya@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: 102022shaurya@gmail.com')
+[2026-02-06 11:13:03] ❌ Email failed for kevindani79@yahoo.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kevindani79@yahoo.com')
+[2026-02-06 11:13:05] ❌ Email failed for kamalmehta30@yahoo.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kamalmehta30@yahoo.com')
+[2026-02-06 11:13:07] ❌ Email failed for rikameamit22@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rikameamit22@gmail.com')
+[2026-02-06 11:13:09] ❌ Email failed for sudarsansolkar@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sudarsansolkar@gmail.com')
+[2026-02-06 11:13:11] ❌ Email failed for kardebhawana@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kardebhawana@gmail.com')
+[2026-02-06 11:13:13] ❌ Email failed for upendrachorge@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: upendrachorge@gmail.com')
+[2026-02-06 11:13:15] ❌ Email failed for rakhirathod1983@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rakhirathod1983@gmail.com')
+[2026-02-06 11:13:17] ❌ Email failed for pankajmehta1983@yahoo.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: pankajmehta1983@yahoo.com')
+[2026-02-06 11:13:19] ❌ Email failed for anuradharya4797@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: anuradharya4797@gmail.com')
+[2026-02-06 11:13:21] ❌ Email failed for tussc27@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: tussc27@gmail.com')
+[2026-02-06 11:13:24] ❌ Email failed for aagamsheth2000@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: aagamsheth2000@gmail.com')
+[2026-02-06 11:13:26] ❌ Email failed for kishanbhojak92@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kishanbhojak92@gmail.com')
+[2026-02-06 11:13:28] ❌ Email failed for gawde.vinayak123@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: gawde.vinayak123@gmail.com')
+[2026-02-06 11:13:30] ❌ Email failed for sunilpawar0605@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sunilpawar0605@gmail.com')
+[2026-02-06 11:13:32] ❌ Email failed for abhaydesai02@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: abhaydesai02@gmail.com')
+[2026-02-06 11:13:34] ❌ Email failed for atakle920@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: atakle920@gmail.com')
+[2026-02-06 11:13:36] ❌ Email failed for account301@hotmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: account301@hotmail.com')
+[2026-02-06 11:13:38] ❌ Email failed for sushmaraut1987@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sushmaraut1987@gmail.com')
+[2026-02-06 11:13:40] ❌ Email failed for bhaveshk1966@rediffmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: bhaveshk1966@rediffmail.com')
+[2026-02-06 11:13:42] ❌ Email failed for mankambli80@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mankambli80@gmail.com')
+[2026-02-06 11:13:44] ❌ Email failed for ruhinshah27@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ruhinshah27@gmail.com')
+[2026-02-06 11:13:46] ❌ Email failed for rakeshdusar1@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rakeshdusar1@gmail.com')
+[2026-02-06 11:13:48] ❌ Email failed for ramojwaranita@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ramojwaranita@gmail.com')
+[2026-02-06 11:13:50] ❌ Email failed for sushmachivilkar306@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: sushmachivilkar306@gmail.com')
+[2026-02-06 11:13:52] ❌ Email failed for ankesharade12@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ankesharade12@gmail.com')
+[2026-02-06 11:13:55] ✅ Email sent successfully to meetshashikantshah@gmail.com
+[2026-02-06 11:13:57] ❌ Email failed for kaushikshah18.ks@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: kaushikshah18.ks@gmail.com')
+[2026-02-06 11:13:59] ❌ Email failed for mehta003sagar@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: mehta003sagar@gmail.com')
+[2026-02-06 11:14:01] ❌ Email failed for vaktusinhrathod4@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: vaktusinhrathod4@gmail.com')
+[2026-02-06 11:14:03] ❌ Email failed for bhimabhaipurohit@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: bhimabhaipurohit@gmail.com')
+[2026-02-06 11:14:05] ❌ Email failed for vedakmanisha@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: vedakmanisha@gmail.com')
+[2026-02-06 11:14:07] ❌ Email failed for surakshab87@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: surakshab87@gmail.com')
+[2026-02-06 11:14:09] ❌ Email failed for ranjanekashinath@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: ranjanekashinath@gmail.com')
+[2026-02-06 11:14:11] ❌ Email failed for voranatwarlal1@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: voranatwarlal1@gmail.com')
+[2026-02-06 11:14:13] ❌ Email failed for rakeshpatane1990@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rakeshpatane1990@gmail.com')
+[2026-02-06 11:14:15] ❌ Email failed for arpitakaralkar@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: arpitakaralkar@gmail.com')
+[2026-02-06 11:14:17] ❌ Email failed for shauryashah000@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shauryashah000@gmail.com')
+[2026-02-06 11:14:19] ❌ Email failed for shelarn724@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shelarn724@gmail.com')
+[2026-02-06 11:14:21] ❌ Email failed for shahyash509@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: shahyash509@gmail.com')
+[2026-02-06 11:14:23] ❌ Email failed for hareshraygor31@gmail.com: (554, b'Message rejected: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: hareshraygor31@gmail.com')
+[2026-02-06 15:08:17] ✅ Connected to SQL Server
+[2026-02-06 15:08:17] ✅ Attendance data fetched successfully
+[2026-02-06 15:08:18] ✅ Connected to Amazon SES SMTP
+[2026-02-06 15:08:18] ✅ Email sent successfully to rinkushah02@gmail.com
+[2026-02-06 15:08:20] ✅ Email sent successfully to dharmeshrathod0607@gmail.com
+[2026-02-06 15:08:22] ✅ Email sent successfully to sonalidhumal69@gmail.com
+[2026-02-06 15:08:24] ✅ Email sent successfully to mayurwangne11@gmail.com
+[2026-02-06 15:08:26] ✅ Email sent successfully to mahalungepravin@gmail.com
+[2026-02-06 15:08:28] ✅ Email sent successfully to nihar.sanghavi@yahoo.co.in
+[2026-02-06 15:08:31] ✅ Email sent successfully to hardiksheth941@gmail.com
+[2026-02-06 15:08:33] ✅ Email sent successfully to kalghuge24@gmail.com
+[2026-02-06 15:08:35] ✅ Email sent successfully to mansitambe716@gmail.com
+[2026-02-06 15:08:37] ✅ Email sent successfully to sadanandambekar6@gmail.com
+[2026-02-06 15:08:39] ✅ Email sent successfully to ketan.parmar3007@gmail.com
+[2026-02-06 15:08:41] ✅ Email sent successfully to rashesh.doshi@yahoo.com
+[2026-02-06 15:08:43] ✅ Email sent successfully to akshaymehta2023@gmail.com
+[2026-02-06 15:08:45] ✅ Email sent successfully to patabhaidesai555@gmail.com
+[2026-02-06 15:08:47] ✅ Email sent successfully to avinashkawli@gmail.com
+[2026-02-06 15:08:50] ✅ Email sent successfully to avasthikamlesh10@gmail.com
+[2026-02-06 15:08:52] ✅ Email sent successfully to smitamorde1981@gmail.com
+[2026-02-06 15:08:54] ✅ Email sent successfully to nateamit05@gmail.com
+[2026-02-06 15:08:56] ⚠ Skipped Sushilkumar N Shah — Invalid email
+[2026-02-06 15:08:56] ⚠ Skipped Rameshbhai M Purohit — Invalid email
+[2026-02-06 15:08:56] ⚠ Skipped Ganeshbhai N Purohit — Invalid email
+[2026-02-06 15:08:56] ⚠ Skipped Ganeshbhai M Rajgor — Invalid email
+[2026-02-06 15:08:56] ⚠ Skipped Sevantilal R Vohera — Invalid email
+[2026-02-06 15:08:56] ⚠ Skipped Dashrathsinh R Rathod — Invalid email
+[2026-02-06 15:08:56] ⚠ Skipped Harsh P Shah — Invalid email
+[2026-02-06 15:08:56] ⚠ Skipped Shasan C Shah — Invalid email
+[2026-02-06 15:08:56] ⚠ Skipped Janak N Bohara — Invalid email
+[2026-02-06 15:08:56] ⚠ Skipped Pravinbhai L Va — Invalid email
+[2026-02-06 15:08:56] ⚠ Skipped Vishal B Shah — Invalid email
+[2026-02-06 15:08:56] ✅ Email sent successfully to jaybuddhadev777@gmail.com
+[2026-02-06 15:08:58] ✅ Email sent successfully to vanitarikame033@gmail.com
+[2026-02-06 15:09:00] ✅ Email sent successfully to anushkapatole1576@gmail.com
+[2026-02-06 15:09:02] ✅ Email sent successfully to 102022shaurya@gmail.com
+[2026-02-06 15:09:05] ✅ Email sent successfully to kevindani79@yahoo.com
+[2026-02-06 15:09:07] ✅ Email sent successfully to kamalmehta30@yahoo.com
+[2026-02-06 15:09:09] ✅ Email sent successfully to rikameamit22@gmail.com
+[2026-02-06 15:09:11] ✅ Email sent successfully to sudarsansolkar@gmail.com
+[2026-02-06 15:09:13] ✅ Email sent successfully to kardebhawana@gmail.com
+[2026-02-06 15:09:15] ✅ Email sent successfully to upendrachorge@gmail.com
+[2026-02-06 15:09:17] ✅ Email sent successfully to rakhirathod1983@gmail.com
+[2026-02-06 15:09:19] ✅ Email sent successfully to pankajmehta1983@yahoo.com
+[2026-02-06 15:09:21] ✅ Email sent successfully to anuradharya4797@gmail.com
+[2026-02-06 15:09:24] ✅ Email sent successfully to tussc27@gmail.com
+[2026-02-06 15:09:26] ✅ Email sent successfully to aagamsheth2000@gmail.com
+[2026-02-06 15:09:28] ✅ Email sent successfully to kishanbhojak92@gmail.com
+[2026-02-06 15:09:30] ✅ Email sent successfully to gawde.vinayak123@gmail.com
+[2026-02-06 15:09:32] ✅ Email sent successfully to sunilpawar0605@gmail.com
+[2026-02-06 15:09:34] ✅ Email sent successfully to abhaydesai02@gmail.com
+[2026-02-06 15:09:36] ✅ Email sent successfully to atakle920@gmail.com
+[2026-02-06 15:09:38] ✅ Email sent successfully to account301@hotmail.com
+[2026-02-06 15:09:40] ✅ Email sent successfully to sushmaraut1987@gmail.com
+[2026-02-06 15:09:43] ✅ Email sent successfully to bhaveshk1966@rediffmail.com
+[2026-02-06 15:09:45] ✅ Email sent successfully to mankambli80@gmail.com
+[2026-02-06 15:09:47] ✅ Email sent successfully to ruhinshah27@gmail.com
+[2026-02-06 15:09:49] ✅ Email sent successfully to rakeshdusar1@gmail.com
+[2026-02-06 15:09:51] ✅ Email sent successfully to ramojwaranita@gmail.com
+[2026-02-06 15:09:53] ✅ Email sent successfully to sushmachivilkar306@gmail.com
+[2026-02-06 15:09:55] ✅ Email sent successfully to ankesharade12@gmail.com
+[2026-02-06 15:09:57] ✅ Email sent successfully to meetshashikantshah@gmail.com
+[2026-02-06 15:09:59] ✅ Email sent successfully to kaushikshah18.ks@gmail.com
+[2026-02-06 15:10:02] ✅ Email sent successfully to mehta003sagar@gmail.com
+[2026-02-06 15:10:04] ✅ Email sent successfully to vaktusinhrathod4@gmail.com
+[2026-02-06 15:10:06] ✅ Email sent successfully to bhimabhaipurohit@gmail.com
+[2026-02-06 15:10:08] ✅ Email sent successfully to vedakmanisha@gmail.com
+[2026-02-06 15:10:10] ✅ Email sent successfully to surakshab87@gmail.com
+[2026-02-06 15:10:12] ✅ Email sent successfully to ranjanekashinath@gmail.com
+[2026-02-06 15:10:14] ✅ Email sent successfully to voranatwarlal1@gmail.com
+[2026-02-06 15:10:16] ✅ Email sent successfully to rakeshpatane1990@gmail.com
+[2026-02-06 15:10:18] ✅ Email sent successfully to arpitakaralkar@gmail.com
+[2026-02-06 15:10:20] ✅ Email sent successfully to shauryashah000@gmail.com
+[2026-02-06 15:10:22] ✅ Email sent successfully to shelarn724@gmail.com
+[2026-02-06 15:10:25] ✅ Email sent successfully to shahyash509@gmail.com
+[2026-02-06 15:10:27] ✅ Email sent successfully to hareshraygor31@gmail.com
+[2026-02-06 15:10:29] ✅ Email sent successfully to trilokichaudhary68@gmail.com
+[2026-02-06 15:10:31] ✅ Email sent successfully to surajshah0702@gmail.com
+[2026-02-06 15:10:33] ✅ Email sent successfully to gavdeprashant2@gmail.com
+[2026-02-06 15:10:35] ✅ Email sent successfully to sachingharat28@gmail.com
+[2026-02-06 15:10:37] ✅ Email sent successfully to kbabariya9@gmail.com
+[2026-02-06 15:10:39] ✅ Email sent successfully to amolsodaye444@gmail.com
+[2026-02-06 15:10:41] ✅ Email sent successfully to jainammehta365@gmail.com
+[2026-02-06 15:10:43] ✅ Email sent successfully to shaileshmahadik916@gmail.com
+[2026-02-06 15:10:45] ✅ Email sent successfully to vanitashedge1432@gmail.com
+[2026-02-06 15:10:48] ✅ Email sent successfully to nikunjghia789@gmail.com
+[2026-02-06 15:10:50] ✅ Email sent successfully to shreeparshwaelectro@gmail.com
+[2026-02-06 15:10:52] ✅ Email sent successfully to nadkarsuraj1996@gmail.com
+[2026-02-06 15:10:54] ✅ Email sent successfully to manish.shah03@hotmail.com
+[2026-02-06 15:10:56] ✅ Email sent successfully to rajmehta0504@gmail.com
+[2026-02-06 15:10:58] ✅ Email sent successfully to dakshasolanki1998@gmail.com
+[2026-02-06 15:11:00] ✅ Email sent successfully to mehulmakwana12371@gmail.com
+[2026-02-06 15:11:02] ✅ Email sent successfully to akshatshah9321993942@gmail.com
+[2026-02-06 15:11:04] ✅ Email sent successfully to nilay.shah6442@gmail.com
+[2026-02-06 15:11:06] ✅ Email sent successfully to swatiwaghare13@gmail.com
+[2026-02-06 15:11:08] ✅ Email sent successfully to aniketbhayaje145@gmail.com
+[2026-02-06 15:11:11] ✅ Email sent successfully to surajwaghare@gmail.com
+[2026-02-06 15:11:13] ✅ Email sent successfully to kailasmita339@gmail.com
+[2026-02-06 15:11:15] ✅ Email sent successfully to jigneshmohite1997@gmail.com
+[2026-02-06 15:11:17] ✅ Email sent successfully to sushmitachibde0201@gmail.com
+[2026-02-06 15:11:19] ✅ Email sent successfully to sushantdhaple909@gmail.com
+[2026-02-06 15:11:21] ✅ Email sent successfully to kavitadarji204@gmail.com
+[2026-02-06 15:11:23] ✅ Email sent successfully to shethshubham.8@gmail.com
+[2026-02-06 15:11:25] ✅ Email sent successfully to vileshshah1963@gmail.com
+[2026-02-06 15:11:27] ✅ Email sent successfully to ritesh7573@gmail.com
+[2026-02-06 15:11:29] ✅ Email sent successfully to swatijp.kolte@gmail.com
+[2026-02-06 15:11:31] ✅ Email sent successfully to shriddhipawar@gmail.com
+[2026-02-06 15:11:33] ✅ Email sent successfully to belvalkarnitin@gmail.com
+[2026-02-06 15:11:36] ✅ Email sent successfully to bharakhadap@gmail.com
+[2026-02-06 15:11:38] ✅ Email sent successfully to ankurshah351981@gmail.com
+[2026-02-06 15:11:40] ✅ Email sent successfully to ninadmahadik732@gmail.com
+[2026-02-06 15:11:42] ✅ Email sent successfully to harishsodiye74@gmail.com
+[2026-02-06 15:11:44] ✅ Email sent successfully to riddhigandhijangid@gmail.com
+[2026-02-06 15:11:46] ✅ Email sent successfully to bhavya13178@gmail.com
+[2026-02-06 15:11:48] ✅ Email sent successfully to 9krutishah@gmail.com
+[2026-02-06 15:11:50] ✅ Email sent successfully to ashishshah8311@gmail.com
+[2026-02-06 15:11:52] ✅ Email sent successfully to hetalrajawat81@gmail.com
+[2026-02-06 15:11:55] ✅ Email sent successfully to kaushikrathod01@gmail.com
+[2026-02-06 15:11:57] ✅ Email sent successfully to mitshah3005@gmail.com
+[2026-02-06 15:11:59] ✅ Email sent successfully to harshadchalke2@gmail.com
+[2026-02-06 15:12:01] ✅ Email sent successfully to shahgarv3000@gmail.com
+[2026-02-06 15:12:03] ✅ Email sent successfully to sbadbe77@gmail.com
+[2026-02-06 15:12:05] ✅ Email sent successfully to janvikadam972@gmail.com
+[2026-02-06 15:12:07] ✅ Email sent successfully to gauravsavla8@gmail.com
+[2026-02-06 15:12:09] ✅ Email sent successfully to avinash27hodbe@gmail.com
+[2026-02-06 15:12:11] ✅ Email sent successfully to mayankgjain27@gmail.com
+[2026-02-06 15:12:13] ✅ Email sent successfully to pachavane29@gmail.com
+[2026-02-06 15:12:15] ✅ Email sent successfully to rohitdas8586@gmail.com
+[2026-02-06 15:12:18] ✅ Email sent successfully to pritam.adkhale0612@gmail.com
+[2026-02-06 15:12:20] ✅ Email sent successfully to Og213195@gmail.com
+[2026-02-06 15:12:22] ✅ Email sent successfully to rishabhmujpura09@gmail.com
+[2026-02-06 15:12:24] ✅ Email sent successfully to prashantdesai325@gmail.com
+[2026-02-06 15:12:26] ✅ Email sent successfully to milan.shah55@gmail.com
+[2026-02-06 15:12:28] ✅ Email sent successfully to tejas.jadhav2020@gmail.com
+[2026-02-06 15:12:30] ✅ Email sent successfully to skapadia919@gmail.com
+[2026-02-06 15:12:32] ✅ Email sent successfully to aadishah7391@gmail.com
+[2026-02-06 15:12:34] ✅ Email sent successfully to kisansinhdabhi3@gmail.com
+[2026-02-06 15:12:36] ✅ Email sent successfully to amishah9264@gmail.com
+[2026-02-06 15:12:39] ✅ Email sent successfully to fenilsheth74@gmail.com
+[2026-02-06 15:12:41] ✅ Email sent successfully to pragativarma2000@gmail.com
+[2026-02-06 15:12:43] ✅ Email sent successfully to Dipalimanval4@gmail.com
+[2026-02-06 15:12:45] ✅ Email sent successfully to shahtarun2005@hotmail.com
+[2026-02-06 15:12:47] ✅ Email sent successfully to shahtarun2005@gmail.com
+[2026-02-06 15:12:49] ✅ Email sent successfully to shivrampurohit1@gmail.com
+[2026-02-06 15:12:51] ✅ Email sent successfully to sonichintesh20@gmail.com
+[2026-02-06 15:12:53] ✅ Email sent successfully to viralmehta711@gmail.com
+[2026-02-06 15:12:55] ✅ Email sent successfully to jpu1965@gmail.com
+[2026-02-06 15:12:57] ✅ Email sent successfully to rs3405478@gmail.com
+[2026-02-06 15:12:59] ✅ Email sent successfully to sumitwaghmare979@gmail.com
+[2026-02-06 15:13:01] ✅ Email sent successfully to ayaresachin1988@gmail.com
+[2026-02-06 15:13:04] ✅ Email sent successfully to mehtapreet43@gmail.com
+[2026-02-06 15:13:06] ✅ Email sent successfully to shahpoojan40@gmail.com
+[2026-02-06 15:13:11] ✅ Email sent successfully to vinitvakharia99999@gmail.com
+[2026-02-06 15:13:13] ✅ Email sent successfully to kadampankaj1317@gmail.com
+[2026-02-06 15:13:15] ✅ Email sent successfully to jvishal977@gmail.com
+[2026-02-06 15:13:17] ✅ Email sent successfully to Vanshshah5555@gmail.com
+[2026-02-06 15:13:19] ✅ Email sent successfully to vanshshah5555@gmail.com
+[2026-02-06 15:13:21] ✅ Email sent successfully to nishitshah0001@gmail.com
+[2026-02-06 15:13:23] ⚠ Skipped Harsh Amit Shah — Invalid email
+[2026-02-06 15:13:23] ⚠ Skipped Shrut Ashwin bhai parekh — Invalid email
+[2026-02-06 15:13:23] ⚠ Skipped Nilesh R Mewada — Invalid email
+[2026-02-06 15:13:23] ⚠ Skipped Rajesh S Shah — Invalid email
+[2026-02-06 15:13:23] ⚠ Skipped Sanchita S Malap — Invalid email
+[2026-02-06 15:13:23] ✅ Email sent successfully to nirpabogati1976@gmail.com
+[2026-02-06 15:13:25] ⚠ Skipped Nishit D Fofani — Invalid email
+[2026-02-06 15:13:25] ⚠ Skipped Nevil R Shah — Invalid email
+[2026-02-06 15:13:25] ⚠ Skipped Savina Joyce Aroza — Invalid email
+[2026-02-06 15:13:25] ✅ Email sent successfully to anishaaroza@gmail.com
+[2026-02-06 15:13:27] ✅ Email sent successfully to siddhizagde913@gmail.com
+[2026-02-06 15:13:30] ✅ Email sent successfully to shrutikamayekar46@gmail.com
+[2026-02-06 15:13:32] ✅ Email sent successfully to harshshah01825@gmail.com
+[2026-02-06 15:13:34] ⚠ Skipped Darshan Dilipkumar Shah — Invalid email
+[2026-02-06 15:13:34] ⚠ Skipped Varaiya Manan JayeshKumar — Invalid email
+[2026-02-06 15:13:34] ⚠ Skipped APRINA HODBE — Invalid email
+[2026-02-06 15:13:34] ⚠ Skipped Jilay Tarunbhai Shah — Invalid email
+[2026-02-06 15:13:34] ⚠ Skipped Bharat Bahadur Budha — Invalid email
+[2026-02-06 15:13:34] ⚠ Skipped Hiten Shailesh Shah — Invalid email
+[2026-02-06 15:13:34] ✅ Email sent successfully to vilpachaitya04@gmail.com
+[2026-02-06 15:13:36] ✅ Email sent successfully to ketandshah74@yahoo.com
+[2026-02-06 15:13:38] ✅ Email sent successfully to pawardevendra985@gmail.com
+[2026-02-06 15:13:40] ✅ Email sent successfully to hiteshp17381@gmail.com
+[2026-02-06 15:13:42] ✅ Email sent successfully to sandiprajvilkar@yahoo.com
+[2026-02-06 15:13:44] ✅ Email sent successfully to karshanpatel972@gmail.com
+[2026-02-06 15:13:46] ⚠ Skipped Kalp Mehta — Invalid email
+[2026-02-06 15:13:46] ⚠ Skipped Tatvkumar N Shah — Invalid email
+[2026-02-06 15:13:46] ⚠ Skipped Devasi P Devaram — Invalid email
+[2026-02-06 15:13:46] ⚠ Skipped Dhyan T Shah — Invalid email
+[2026-02-06 15:13:46] ⚠ Skipped Dhvanil Bharatkumar Shah — Invalid email
+[2026-02-06 15:13:46] ✅ Email sent successfully to mrajpurohit123purohit@gmail.com
+[2026-02-06 15:13:48] ✅ Email sent successfully to arvindpurohit777@gmail.com
+[2026-02-06 15:13:50] Process Completed | Success: 157 | Failed: 0

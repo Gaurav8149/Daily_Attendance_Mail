@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 import os
 import sys
 import traceback
+import time
 
 # ------------------------------------------------------
 # FIX PATH FOR EXE (log file, DB, etc.)
@@ -28,9 +29,38 @@ def log(message):
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(full + "\n")
 
+def wait_for_exit(message="Press ENTER to close..."):
+    try:
+        if sys.stdin and sys.stdin.isatty():
+            input(message)
+    except (RuntimeError, EOFError):
+        pass
+
+def fatal_error(e):
+    error_text = traceback.format_exc()
+    log("❌ FATAL ERROR:")
+    log(error_text)
+    wait_for_exit("Press ENTER to close...")
+    sys.exit()
 
 # ------------------------------------------------------
-# FATAL ERROR HANDLER (Keeps CMD Open)
+# SAFE WAIT FUNCTION (for manual run only)
+# ------------------------------------------------------
+def wait_for_exit(message="Press ENTER to close..."):
+    """
+    Safely wait for user input only if running in an interactive console.
+    In Task Scheduler / non-interactive mode, it will just skip.
+    """
+    try:
+        if sys.stdin and sys.stdin.isatty():
+            input(message)
+    except (RuntimeError, EOFError):
+        # No stdin available (Task Scheduler / service / etc.)
+        pass
+
+
+# ------------------------------------------------------
+# FATAL ERROR HANDLER
 # ------------------------------------------------------
 def fatal_error(e):
     error_text = traceback.format_exc()
@@ -38,7 +68,7 @@ def fatal_error(e):
     log(error_text)
 
     print("\n⚠ Program stopped due to an error.")
-    input("Press ENTER to close...")
+    wait_for_exit("Press ENTER to close...")
     sys.exit()
 
 
@@ -46,39 +76,27 @@ def fatal_error(e):
 # MAIN SCRIPT INSIDE TRY BLOCK
 # ------------------------------------------------------
 try:
-
-    # ------------------------------------------------------
-    # **NEW: Skip processing if yesterday was Sunday**
-    # ------------------------------------------------------
     yesterday_date = datetime.now() - timedelta(days=1)
 
-    if yesterday_date.weekday() == 6:  # Sunday = 6
+    # Skip Sunday
+    if yesterday_date.weekday() == 6:
         log("⛔ Yesterday was Sunday — No attendance mail will be sent.")
-        print("Yesterday was Sunday. No emails sent. Press ENTER to close.")
-        input()
         sys.exit()
 
-    # SQL SERVER CONNECTION
-    try:
-        conn = pyodbc.connect(
-            'DRIVER={SQL Server};'
-            'SERVER=103.172.150.57,1434;'
-            'DATABASE=ETime;'
-            'UID=pbi;'
-            'PWD=K091Gvpj4%p.;'
-        )
-        log("Connected to SQL Server")
-    except Exception as e:
-        fatal_error(e)
-
-    # Yesterday’s date formatted
     yesterday = yesterday_date.strftime("%Y-%m-%d")
     formatted_date = yesterday_date.strftime("%d-%m-%Y")
 
-    # ------------------------------------------------------
-    # FETCH ATTENDANCE FROM VIEW
-    # **NEW: Only fetch records where InTime OR OutTime exists**
-    # ------------------------------------------------------
+    # SQL CONNECTION
+    conn = pyodbc.connect(
+        'DRIVER={SQL Server};'
+        'SERVER=103.172.150.57,1434;'
+        'DATABASE=ETime;'
+        'UID=pbi;'
+        'PWD=K091Gvpj4%p.;'
+    )
+    log("✅ Connected to SQL Server")
+
+    # FETCH ATTENDANCE
     query = f"""
     SELECT 
         EmployeeID,
@@ -92,75 +110,64 @@ try:
       AND (InTime IS NOT NULL OR OutTime IS NOT NULL)
     """
 
-    try:
-        df = pd.read_sql(query, conn)
-        log("Attendance data fetched successfully")
-    except Exception as e:
-        fatal_error(e)
+    df = pd.read_sql(query, conn)
+    log("✅ Attendance data fetched successfully")
 
     if df.empty:
-        log("❌ No attendance with In/Out time for yesterday.")
-        print("No employees with In/Out time. Press ENTER to exit.")
-        input()
+        log("❌ No attendance records found.")
         sys.exit()
 
     # ------------------------------------------------------
     # SMTP SETTINGS
     # ------------------------------------------------------
-    SMTP_SERVER = "smtp.gmail.com"
+    SMTP_SERVER = "email-smtp.ap-south-1.amazonaws.com"
     SMTP_PORT = 587
 
-    SENDER_EMAIL = "sejalexportshr@gmail.com"
-    SENDER_PASSWORD = "eywluoohqmrdrgxd"  # App Password
+    SENDER_EMAIL = "sejalexphr@sejal.co"  # Must be verified domain email
 
+    SMTP_USERNAME = "AKIA6JRM5VFG5ILJIBM6"
+    SMTP_PASSWORD = "BHduWNkoL7vyUEMPgvqag80u5UW2ICTBBp36/E3U7GKC"
+
+    # CONNECT ONCE (IMPORTANT)
+    server = smtplib.SMTP(SMTP_SERVER, SMTP_PORT, timeout=60)
+    server.starttls()
+    server.login(SMTP_USERNAME, SMTP_PASSWORD)
+    log("✅ Connected to Amazon SES SMTP")
 
     # ------------------------------------------------------
     # EMAIL FUNCTION
     # ------------------------------------------------------
-    def send_email(to_email, subject, body):
+    def send_email(server, to_email, subject, body):
         msg = MIMEText(body, "plain")
         msg["Subject"] = subject
-        msg["From"] = SENDER_EMAIL
+        msg["From"] = f"Attendance System <{SENDER_EMAIL}>"
         msg["To"] = to_email
+        msg["Reply-To"] = SENDER_EMAIL
 
         try:
-            with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
-                server.starttls()
-                server.login(SENDER_EMAIL, SENDER_PASSWORD)
-                server.send_message(msg)
+            server.send_message(msg)
             return True
-        except Exception:
-            log(f"❌ ERROR sending to {to_email}: {traceback.format_exc()}")
+        except Exception as e:
+            log(f"❌ Failed sending to {to_email}: {e}")
             return False
 
 
     # ------------------------------------------------------
     # START BULK EMAIL PROCESS
     # ------------------------------------------------------
-    print("\n=================================================")
-    print("🚀 Starting Daily Attendance Email Process")
-    print("=================================================\n")
-
-    total = len(df)
     success_count = 0
     failed_count = 0
 
-    log(f"Sending emails to {total} employees")
     email_subject = f"Attendance Details for {formatted_date}"
 
     for _, row in df.iterrows():
+        to_email = str(row["Email"]).strip()
 
-        # Validate email
-        to_email = row["Email"]
-
-        if not to_email or str(to_email).strip() == "" or str(to_email).lower() == "none":
-            log(f"⚠ Skipped {row['EmployeeName']} — Missing or invalid email")
+        if not to_email or to_email.lower() == "none":
+            log(f"⚠ Skipped {row['EmployeeName']} — Invalid email")
             continue
 
-        to_email = str(to_email).strip()
         emp_name = row["EmployeeName"]
-
-        print(f"📨 Sending to: {emp_name} <{to_email}> ... ", end="", flush=True)
 
         email_body = f"""Hello {emp_name},
 
@@ -169,17 +176,33 @@ Date : {formatted_date}
 In Time - {row['InTime']}
 Out Time - {row['OutTime']}
 
-This is a system Generated Email.
+This is a system generated attendance email.
 """
 
-        if send_email(to_email, email_subject, email_body):
-            print("✔ SUCCESS")
-            log(f"Email sent successfully to {to_email}")
+        msg = MIMEText(email_body, "plain")
+        msg["Subject"] = email_subject
+        msg["From"] = f"Attendance System <{SENDER_EMAIL}>"
+        msg["To"] = to_email
+        msg["Reply-To"] = SENDER_EMAIL
+
+        try:
+            server.send_message(msg)
+            log(f"✅ Email sent successfully to {to_email}")
             success_count += 1
-        else:
-            print("✖ FAILED")
+        except Exception as e:
+            log(f"❌ Email failed for {to_email}: {e}")
             failed_count += 1
 
+        time.sleep(2)  # SES throttle safety
+
+    server.quit()
+
+    log(f"Process Completed | Success: {success_count} | Failed: {failed_count}")
+
+    wait_for_exit("Press ENTER to close...")
+
+except Exception as e:
+    fatal_error(e)
 
     # ------------------------------------------------------
     # FINAL SUMMARY
@@ -194,7 +217,7 @@ This is a system Generated Email.
 
     log(f"Process Completed | Success: {success_count} | Failed: {failed_count}")
 
-    input("Press ENTER to close...")
+    wait_for_exit("Press ENTER to close...")
 
 except Exception as e:
     fatal_error(e)
